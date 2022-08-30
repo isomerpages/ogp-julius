@@ -10,3 +10,10 @@ links:
     collection: hello
   - title: Content
     url: /content/
+  - title: Facebook
+    url: /Facebook/
+    sublinks:
+      - title: Facebook
+        url: https://www.facebook.com
+      - title: Submenu Title
+        url: /permalink
