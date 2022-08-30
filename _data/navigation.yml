@@ -15,3 +15,5 @@ links:
         url: https://www.facebook.com
       - title: Submenu Title
         url: /permalink
+  - title: Hello
+    collection: hello
