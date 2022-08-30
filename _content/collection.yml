@@ -1,5 +1,0 @@
-collections:
-  content:
-    output: true
-    order:
-      - Content.md
