@@ -2,5 +2,4 @@ collections:
   hello:
     output: true
     order:
-      - Content.md
       - Hello.md
