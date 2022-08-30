@@ -6,8 +6,6 @@ links:
     url: /example-page/
   - title: Example Folder
     collection: example-folder
-  - title: Content
-    url: Isomer/content/
   - title: Facebook
     url: /Facebook/
     sublinks:
@@ -17,5 +15,3 @@ links:
         url: /permalink
   - title: Hello
     collection: hello
-  - title: Content
-    url: /Content/permalink
