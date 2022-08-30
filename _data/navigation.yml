@@ -9,7 +9,7 @@ links:
   - title: Hello
     collection: hello
   - title: Content
-    url: /content/
+    url: Isomer/content/
   - title: Facebook
     url: /Facebook/
     sublinks:
