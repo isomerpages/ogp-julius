@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - About Us/Mission Statement.md
-      - About Us/What We Do.md
       - About Us/.keep
+      - About Us/What We Do.md
+      - About Us/Mission Statement.md
