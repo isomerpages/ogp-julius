@@ -2,5 +2,5 @@ collections:
   our-team:
     output: true
     order:
-      - What We Do.md
       - About Us.md
+      - What We Do.md
