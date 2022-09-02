@@ -1,4 +1,5 @@
 collections:
   our-team:
     output: true
-    order: []
+    order:
+      - About Us.md
