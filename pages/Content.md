@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/favicon-isomer.ico)
 
-**[Youtube](www.youtube.com)**
+**[Youtube](https://www.youtube.com/watch?v=jfKfPfyJRdk)**
 
 <table>
 	<tr>
@@ -24,4 +24,3 @@ description: ""
 	<td>blue</td>
 	</tr>
 </table>
-	
