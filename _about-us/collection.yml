@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Vision.md
       - Example Title.md
       - What We Do.md
       - About Us.md
