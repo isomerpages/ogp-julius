@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - About Us.md
-      - What We Do.md
       - Vision.md
