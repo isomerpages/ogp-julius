@@ -2,5 +2,6 @@ collections:
   our-team:
     output: true
     order:
+      - Vision.md
       - Our Team.md
       - About Us.md
