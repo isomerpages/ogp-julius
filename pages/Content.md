@@ -3,7 +3,7 @@ title: Content
 permalink: /content/permalink/
 description: ""
 ---
-![](/images/favicon-isomer.ico)
+![](/images/Test/pexels-trang-doan-1132047.jpg)
 
 **[Youtube](https://www.youtube.com/watch?v=jfKfPfyJRdk)**
 
