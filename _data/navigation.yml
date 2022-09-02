@@ -4,9 +4,9 @@ links:
     url: /example-page/
   - title: Example Folder
     collection: example-folder
+  - title: About Us
+    url: /aboutus/permalink
   - title: Hello
     collection: hello
   - title: Content
     url: /content/permalink/
-  - title: About Us
-    url: /aboutus/permalink
