@@ -4,11 +4,16 @@ links:
     url: /example-page/
   - title: Example Folder
     collection: example-folder
-  - title: About Us
-    url: /aboutus/permalink
   - title: Hello
     collection: hello
   - title: Content
     url: /content/permalink/
   - title: Resources
     resource_room: true
+  - title: About us
+    url: /aboutus/permalink
+    sublinks:
+      - title: Vision
+        url: /vision/permalink
+      - title: Our Team
+        url: /ourteam/permalink
