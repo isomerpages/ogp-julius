@@ -2,7 +2,7 @@
 layout: homepage
 title: Title
 description: An Isomer site of the Singapore Government
-image: /images/4381366.png
+image: /images/isomer-logo.svg
 permalink: /
 notification: Hello There
 sections:
@@ -30,4 +30,5 @@ sections:
       description: Infobar description
       button: Button Text
 ---
+
 
