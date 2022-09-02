@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Our Team/.keep
       - Vision.md
       - Mission Statement.md
