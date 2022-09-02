@@ -8,3 +8,5 @@ links:
     collection: hello
   - title: Content
     url: /content/permalink/
+  - title: About Us
+    url: /aboutus/permalink
