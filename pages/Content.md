@@ -15,7 +15,7 @@ description: ""
 	<td>three</td>
 	</tr>
   <tr>
-  <th>Fruits:</th>
+  <th>Fruits:</th> 
 	<td>apple</td>
 	<td>pear</td>
 	<td>orange</td>
