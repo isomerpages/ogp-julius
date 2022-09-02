@@ -10,3 +10,5 @@ links:
     collection: hello
   - title: Content
     url: /content/permalink/
+  - title: Resources
+    resource_room: true
