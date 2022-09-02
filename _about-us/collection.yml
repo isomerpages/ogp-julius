@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Vision.md
-      - What We Do.md
       - About Us.md
+      - What We Do.md
+      - Vision.md
