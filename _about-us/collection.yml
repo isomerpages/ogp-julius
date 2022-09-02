@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Management/.keep
-      - Our Team.md
       - Vision.md
       - Mission Statement.md
