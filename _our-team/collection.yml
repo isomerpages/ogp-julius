@@ -1,6 +1,0 @@
-collections:
-  our-team:
-    output: true
-    order:
-      - About Us.md
-      - What We Do.md
