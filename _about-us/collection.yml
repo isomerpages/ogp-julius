@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Our Team/Employees.md
-      - Our Team/Management.md
       - Our Team/.keep
+      - Our Team/Management.md
+      - Our Team/Employees.md
       - Vision.md
       - Mission Statement.md
