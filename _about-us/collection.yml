@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Mission Statement/Mission.md
       - Mission Statement/.keep
