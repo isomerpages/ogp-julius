@@ -10,4 +10,4 @@ description: ""
 </strong> </figcaption>
 </figure>
 
-<a href="mailto:webmaster@example.com">Jon Doe</a>
+CEO Email : <a href="mailto:webmaster@example.com">Jon Doe</a>
