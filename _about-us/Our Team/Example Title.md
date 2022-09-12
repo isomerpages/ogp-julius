@@ -4,7 +4,7 @@ permalink: /about-us/Our-Team/50th-anniversary/
 description: ""
 third_nav_title: Our Team
 ---
-### 51st eCollege Day
+### 50th Anniversary
 
 ![](/images/ecol1.png)
 
