@@ -10,5 +10,4 @@ description: ""
 </strong> </figcaption>
 </figure>
 
-
-		 
+<a href="mailto:webmaster@example.com">Jon Doe</a>
