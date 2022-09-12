@@ -14,6 +14,3 @@ description: ""
 |  HOD (CCE)  | Mdm See Chui Geok    | see_chui_geok@schools.gov.sg   |
 |  Subject Head (Student Leadership)  | Mdm Nur Azianah  |  azianah_zakaria@schools.gov.sg   |
 |  Subject Head (CCE & VIA)  |  Mdm Lim Yiling, Eillen    | lim_yiling_eileen@schools.gov.sg    |
-
-
-
