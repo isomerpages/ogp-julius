@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our Team/50th Anniversary.md
-      - Our Team/Example Title.md
       - Our Team/Employees.md
       - Our Team/.keep
       - Our Team/Management.md
