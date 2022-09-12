@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Team/Example Title.md
       - Our Team/Employees.md
       - Our Team/.keep
       - Our Team/Management.md
