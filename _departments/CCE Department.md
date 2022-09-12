@@ -24,3 +24,6 @@ description: ""
 1) To deliver values-based programmes for development of 21st Century Competencies. 
 
 2) Instilling the spirit of Active Citizenry in our students.
+
+![](/images/CCE1.png)
+
