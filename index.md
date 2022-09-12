@@ -32,4 +32,11 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      image: /images/pexels-tima-miroshnichenko-5717641.jpg
+      alt: Image alt text
 ---
