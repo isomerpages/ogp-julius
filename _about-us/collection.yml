@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Testing1/.keep
-      - Testing.md
       - Our Team/Employees.md
       - Our Team/.keep
       - Our Team/Management.md
