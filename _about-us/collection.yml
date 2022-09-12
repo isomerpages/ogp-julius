@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Testing1/Testing.md
-      - Testing1/.keep
       - Our Team/Employees.md
       - Our Team/.keep
       - Our Team/Management.md
