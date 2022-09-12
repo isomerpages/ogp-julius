@@ -12,3 +12,5 @@ links:
     resource_room: true
   - title: About Us
     collection: about-us
+  - title: Testing
+    url: /testing/permalink
