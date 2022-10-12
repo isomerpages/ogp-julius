@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - TableTest2.md
       - Table Test.md
       - Test.md
       - Our Team/50th Anniversary.md
