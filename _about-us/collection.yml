@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Calendar Test.md
       - TableTest4.md
       - Tabletest3.md
       - TableTest2.md
