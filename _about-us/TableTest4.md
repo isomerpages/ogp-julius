@@ -28,6 +28,7 @@ description: ""
 .tg .tg-mvfo{background-color:#E6E6E6;border-color:inherit;color:#222;text-align:left;vertical-align:top}
 .tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-ats7{background-color:#FFF;border-color:inherit;color:#222;text-align:left;vertical-align:top}
+	table, th, td {  border: 1px solid;}
 </style>
 <table class="tg">
 <thead>
