@@ -7,12 +7,13 @@ description: ""
 <img src="https://file.go.gov.sg/67u60i.JPG"        style="width:30%"> 
 	<figcaption ><b>Mdm Teresa Kelly Len (Principal)</b></figcaption>	
  </figure>
+
  
- <figure>	
+<figure>	
   <img src="https://file.go.gov.sg/u4i7eo.JPG"         
- style="width:30%"  >
+ style="width:30%" >
 	<figcaption> <b>Mr Wong Sung Lai  Edward (Vice-Principal)</b> </figcaption> 
-	</figure>
+</figure>
  
 <figure>
  <img src="https://file.go.gov.sg/rirg95.JPG"         style="width:30%">
