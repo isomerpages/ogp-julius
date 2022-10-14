@@ -5,9 +5,8 @@ description: ""
 ---
 <figure>
 <img src="https://file.go.gov.sg/67u60i.JPG"        style="width:30%"> 
-	<figcaption ><b>Mdm Teresa Kelly Len (Principal)</b></figcaption>	
+	<figcaption ><b>Mdm Teresa Kelly Len (Principal)</b> </figcaption>	
  </figure>
-
  
 <figure>	
   <img src="https://file.go.gov.sg/u4i7eo.JPG"         
@@ -134,3 +133,4 @@ description: ""
  <img src="https://file.go.gov.sg/gnli3y.JPG"     style="width:30%">
 		<figcaption>  <b>Mdm Rozana Hashim (Senior Teacher)</b></figcaption> 
 	</figure>
+	
