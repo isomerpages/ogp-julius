@@ -73,3 +73,101 @@ description: ""
 </tbody>
 </table>
 
+#### Sports
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="font-weight:700">CCA</span></th>
+    <th class="tg-l2bf"><span style="font-weight:700">Competition</span></th>
+    <th class="tg-l2bf"><span style="font-weight:700">Achievements</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h5mn" rowspan="2">Badminton</td>
+    <td class="tg-h5mn">National School Games ‘B’ Division</td>
+    <td class="tg-h5mn">North Zone Champions<br>(No National Round)</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">National School Games ‘C’ Division</td>
+    <td class="tg-1ppo">North Zone Champions<br>(No National Round)</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn" rowspan="2">Basketball</td>
+    <td class="tg-h5mn">National School Games ‘B’ Division</td>
+    <td class="tg-h5mn">3rd  North Zone<br>(No National Round)</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">National School Games ‘C’ Division</td>
+    <td class="tg-1ppo">North Zone Champions<br>(No National Round)</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Trampoline</td>
+    <td class="tg-h5mn">National School Games</td>
+    <td class="tg-h5mn">C Division<br>2nd Overall (Team)</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo" rowspan="3">Gymnastics</td>
+    <td class="tg-1ppo">National Championships</td>
+    <td class="tg-1ppo">Jessie Olivia Yeo (2CO)<br>Individual 3rd place in:<br>·       vault<br>·       balance beam<br>Individual 4th place in floor exercise</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">National School Games  ‘C’ Division</td>
+    <td class="tg-h5mn">National Champions (Team)<br>Individual All-Around<br>Champion : Ayra Daneen Binte Azanizam (1CO)<br><br>Bronze :<br>Jessie Olivia Yeo (2CO)<br>Claire Sim An (2CO)<br>Ashley Ann Teo (2CO)</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">National School Games ‘B’ Division</td>
+    <td class="tg-1ppo">3rd National (Team)</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn" rowspan="2">Netball</td>
+    <td class="tg-h5mn">National School Games ‘B’ Division</td>
+    <td class="tg-h5mn">3rd  North Zone<br>(No National Round)</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">National School Games ‘C’ Division</td>
+    <td class="tg-1ppo">North Zone Champions<br>(No National Round)</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Squash</td>
+    <td class="tg-h5mn">National School Games ‘B’ Division</td>
+    <td class="tg-h5mn">3rd  National</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"></td>
+    <td class="tg-1ppo">National School Games ‘C’ Division</td>
+    <td class="tg-1ppo">3rd National</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Swimming</td>
+    <td class="tg-h5mn">National School Games ‘B’ Division</td>
+    <td class="tg-h5mn">4th National<br>Individual Events:<br>100m Freestyle :  4th<br>Kate Cheng Ee Ling (3GR)</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"></td>
+    <td class="tg-1ppo">National School Games ‘C’ Division</td>
+    <td class="tg-1ppo">4th National<br>Individual Events:<br>200m Individual Medley :  3rd<br>Ong Zi Rui, Ricci  (2PR)<br><br>Team Events:<br>4 x 50m free style relay : 4th<br>4 x 50m medley relay : 4th</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Tennis</td>
+    <td class="tg-h5mn">National School Games ‘B’ Division</td>
+    <td class="tg-h5mn">2nd  National</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo"></td>
+    <td class="tg-1ppo">National School Games ‘C’ Division</td>
+    <td class="tg-1ppo">3rd National</td>
+  </tr>
+</tbody>
+</table>
