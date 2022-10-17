@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - TableTest4.md
       - Tabletest3.md
       - TableTest2.md
       - Table Test.md
