@@ -4,7 +4,7 @@ title: Test
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Hello There
+notification: ""
 sections:
   - hero:
       title: Testing
