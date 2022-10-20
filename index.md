@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Testing
       subtitle: This is hero subtitle!
-      background: /images/testbanner2.gif
+      background: /images/Testbanner5.gif
       url: /contact-us/
       key_highlights:
         - title: Highlight A
