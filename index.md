@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Testing
       subtitle: This is hero subtitle!
-      background: /images/about-us-page-examples-1-61fd8f9784626-sej-1520x800.jpg
+      background: /images/testbanner-gif-maker.gif
       url: /contact-us/
       key_highlights:
         - title: Highlight A
@@ -40,5 +40,3 @@ sections:
       image: /images/pexels-tima-miroshnichenko-5717641.jpg
       alt: Image alt text
 ---
-
-
