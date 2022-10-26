@@ -3,9 +3,6 @@ title: Test
 permalink: /about-us/Test5/
 description: ""
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sC160_SpgCg?wmode=transparent&playlist=sC160_SpgCg&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <table style="border: 1px solid grey">
 	<tr>
 		<td colspan="2" style="border: 1px solid grey"> <p align="center"> <b> From 2023 <br> K1 and K2 (4 - hour Programme)</b></p></td>
