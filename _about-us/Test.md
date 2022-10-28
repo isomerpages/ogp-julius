@@ -18,4 +18,4 @@ description: ""
 
 |  |  |  
 |:---:|:---:|
-| <b>Mr Wong Sung Lai&nbsp; Edward<br>(Vice-Principal)</b> |<b>Mdm Kitha Arumugam<br> (Vice Principal)</b> |   | 
+| <b>Mr Wong Sung Lai&nbsp; Edward<br>(Vice-Principal)</b> |<b>Mdm Kitha Arumugam<br> (Vice Principal)</b> |   |
