@@ -6,12 +6,13 @@ description: ""
 #### **MK @ Westwood Teaching Staff**
 <img style="width:30%" src="https://file.go.gov.sg/67u60i.JPG"> 
 
+
 |  |
 |:---:|
 | <b>Mdm Teresa Kelly Len</b><br>(Principal)|
 
-<img src="https://file.go.gov.sg/u4i7eo.JPG" style="width:33%;margin-left:30px;" align = "left">
-<img src="https://file.go.gov.sg/rirg95.JPG"
+<img src="/images/Mr%20Edward%20Wong.jpeg" style="width:33%;margin-left:30px;" align = "left">
+<img src="/images/Mdm%20Kitha%20Arumugam.jpeg"
 		 style="width:33%;margin-right:30px;" align = "right">
 
 <br clear="left">
