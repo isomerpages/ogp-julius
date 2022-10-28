@@ -19,4 +19,14 @@ description: ""
 
 |  |  |  
 |:---:|:---:|
-| <b>Mr Wong Sung Lai&nbsp; Edward<br>(Vice-Principal)</b> |<b>Mdm Kitha Arumugam<br> (Vice Principal)</b> |   |
+| <b>Mr Wong Sung Lai Edward<br>(Vice-Principal)</b> |<b>Mdm Kitha Arumugam<br> (Vice Principal)</b> |   |
+
+<img src="/images/staff20.jpg" style="width:29.5%;margin-right:15px;" align = "left">
+<img src="/images/staff21.jpg" style="width:29%;margin-right:15px;" align = "left">
+<img src="/images/staff22.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| **Liu Bing**<br>Chinese Language Teacher | **Wang Lu**<br>Chinese Language Teacher | **Zhou Hong**<br>Chinese Language Teacher |
