@@ -23,11 +23,10 @@ description: ""
 
 <img src="/images/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg" style="width:29.5%;margin-right:15px;" align = "left">
 <img src="/images/Mr%20K%20M%20Samales.jpeg" style="width:29%;margin-right:15px;" align = "left">
-<img src="/images/Mr%20Philip%20Lee.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/Mr%20Philip%20Lee.jpeg" style="width:29%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Mr Abdul Halik Bin Abdul Hamid**<br>(Admin Manager) | **Wang Lu**<br>Chinese Language Teacher | **Zhou Hong**<br>Chinese Language Teacher |
-
+| **Mr Abdul Halik Bin Abdul Hamid**<br>(Admin Manager) | **Mr Samales Kuppusamy**<br>(Operations Manager) | **Mr Philip Lee**<br> (ICT Manager) |
