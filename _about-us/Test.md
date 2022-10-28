@@ -4,7 +4,7 @@ permalink: /about-us/Test5/
 description: ""
 ---
 #### **MK @ Westwood Teaching Staff**
-<img style="width:30%" src="https://file.go.gov.sg/67u60i.JPG"> 
+<img style="width:30%" src="/images/Mdm%20Teresa%20Kelly%20Len.jpeg"> 
 
 
 |  |
@@ -20,3 +20,4 @@ description: ""
 |  |  |  
 |:---:|:---:|
 | <b>Mr Wong Sung Lai&nbsp; Edward<br>(Vice-Principal)</b> |<b>Mdm Kitha Arumugam<br> (Vice Principal)</b> |   |
+
