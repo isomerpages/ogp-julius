@@ -34,7 +34,7 @@ description: ""
 
 <img src="/images/Mdm%20Suzanna%20Mohd%20Isnin.jpeg" style="width:29.5%;margin-right:15px;" align = "left">
 <img src="/images/Ms%20Goh%20Xue%20Yi.jpeg" style="width:29%;margin-right:15px;" align = "left">
-<img src="/images/Mr%20Ho%20Boon%20Huat.jpeg" style="width:29%;margin-right:15px;" align = "left">
+<img src="/images/Mr%20Ho%20Boon%20Huat.jpeg" style="width:30%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
