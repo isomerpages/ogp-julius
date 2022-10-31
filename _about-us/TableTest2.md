@@ -5,7 +5,7 @@ description: ""
 ---
 ## ORGANIZATIONAL CHART
 
-<img src="/images/Mdm%20Teresa%20Kelly%20Len.jpeg" style="width:40%"> 
+<img src="/images/Mdm%20Teresa%20Kelly%20Len.jpeg" style="width:50%"> 
 
 |  |
 |:---:|
