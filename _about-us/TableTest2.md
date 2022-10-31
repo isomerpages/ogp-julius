@@ -26,9 +26,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-zkss"><img src="https://file.go.gov.sg/u4i7eo.JPG" width="201" height="302"></th>
-    <th class="tg-tlx9"><img src="https://file.go.gov.sg/rirg95.JPG"  width="201" height="302"></th>
-  </tr>
+    <th class="tg-zkss"><img src="https://file.go.gov.sg/rirg95.JPG" width="201" height="302"></th>
+    <th class="tg-tlx9"><img src="https://file.go.gov.sg/u4i7eo.JPG"  width="201" height="302"></th>
+	</tr>
 </thead>
 <tbody>
   <tr>
