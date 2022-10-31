@@ -22,6 +22,6 @@ description: ""
 
 
 
-|   <img src="/images/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg"  style="width:40%" />                   |                  <img src="/images/Mr%20K%20M%20Samales.jpeg"  style="width:43%" />                               |  <img src="/images/Mr%20Philip%20Lee.jpeg"  style="width:80%" />        |
+|   <img src="/images/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg"  style="width:48%" />                   |                  <img src="/images/Mr%20K%20M%20Samales.jpeg"  style="width:43%" />                               |  <img src="/images/Mr%20Philip%20Lee.jpeg"  style="width:48%" />        |
 |--------------------------------------|-------------------------------------------| -------------------------------------------------|
 | **Mr Abdul Halik Bin Abdul Hamid**  <br> (Admin Manager) | **Mr Samales Kuppusamy** <br> (Operations Manager) | **Mr Philip Lee** <br> (ICT Manager)
