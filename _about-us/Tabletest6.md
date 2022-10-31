@@ -43,13 +43,5 @@ description: ""
 |:---:|:---:|:---:|
 | **Mdm Suzanna Mohd Isnin**<br>(School Staff Developer) | **Ms Goh Xue Yi**<br>(HOD of Pupil Management) | **Mr Ho Boon Huat**<br> (HOD Mother Tongue) |
 
-<figure>
-<img src="/images/Mdm%20Suzanna%20Mohd%20Isnin.jpeg" style="width:29.5%" align = "center">
-<br clear = "">
-	<br>
-<figcaption>test</figcaption>
-	</figure>
 	
 
-<img src="/images/Mdm%20Suzanna%20Mohd%20Isnin.jpeg" style="width:29.5%" align = "center">
-<br clear ="left"
