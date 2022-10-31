@@ -42,12 +42,3 @@ description: ""
 
 
 
-<table>
-<thead>
-  <tr>
-    <td><img src="https://bukittimahpri.moe.edu.sg/qql/slot/u750/Staff/Staff%202020/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.JPG" alt="Mr Abdul Halik Bin Abdul Hamid.JPG" width="185" height="277">#Mr Abdul Halik Bin Abdul Hamid<br>Admin Manager<br></td>
-    <td><br><br><img src="https://bukittimahpri.moe.edu.sg/qql/slot/u750/Staff/Staff%202020/Mr%20K%20M%20Samales.JPG" alt="Mr K M Samales.JPG" width="186" height="278">#Mr Samales Kuppusamy<br><br>Operations Manager</td>
-    <td><br><br>&gt;<img src="https://bukittimahpri.moe.edu.sg/qql/slot/u750/Staff/2021/Mr%20Philip%20Lee.jpg" alt="Mr Philip Lee.jpg" width="187" height="286">#Mr Philip Lee<br><br>ICT Manager</td>
-  </tr>
-</thead>
-</table>
