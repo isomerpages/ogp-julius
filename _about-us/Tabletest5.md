@@ -24,8 +24,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-tlx9"><img src="https://bukittimahpri.moe.edu.sg/qql/slot/u750/Staff/2021/Mdm%20Kitha%20Arumugam.jpg" alt="Mdm Kitha Arumugam.jpg" width="201"></th>
-    <th class="tg-tlx9"><img src="https://bukittimahpri.moe.edu.sg/qql/slot/u750/Staff/2021/Mr%20Edward%20Wong.jpg" alt="Mr Edward Wong.jpg" width="201"></th>
+    <th class="tg-tlx9"><img src="/images/Mdm%20Kitha%20Arumugam.jpeg" alt="Mdm Kitha Arumugam.jpg" width="201"></th>
+    <th class="tg-tlx9"><img src=/images/Mr%20Edward%20Wong.jpeg alt="Mr Edward Wong.jpg" width="201"></th>
   </tr>
 </thead>
 <tbody>
