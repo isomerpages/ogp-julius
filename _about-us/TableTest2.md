@@ -15,6 +15,7 @@ description: ""
 
 <br>
 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -28,8 +29,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-zkss"><img src="/images/Mdm%20Kitha%20Arumugam.jpeg" style="width:40%"> 
-    </th><th class="tg-tlx9"><img src="/images/Mdm%20Kitha%20Arumugam.jpeg" style="width:40%"> </th>
+    <th class="tg-zkss"><img src="/images/Mdm%20Kitha%20Arumugam.jpeg" style="width:50%"> 
+    </th><th class="tg-tlx9"><img src="/images/Mr%20Edward%20Wong.jpeg" style="width:50%"> </th>
 	</tr>
 </thead>
 <tbody>
