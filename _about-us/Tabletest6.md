@@ -55,5 +55,4 @@ description: ""
 | **Mdm Kitha Arumugam**  <br> (Vice - Principal) | **Mr Wong Sung Lai  Edward** <br> (Vice-Principal) |
 
 
-<img src="/images/Mr%20Edward%20Wong.jpeg"  style="width:40%" /> 
-
+test1
