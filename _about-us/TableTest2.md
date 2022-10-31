@@ -19,6 +19,7 @@ description: ""
 | **Mdm Kitha Arumugam**  <br> (Vice - Principal) | **Mr Wong Sung Lai  Edward** <br> (Vice-Principal) |
 
 <br>
+<br>
 
 |   <img src="/images/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg"  style="width:48%" />                   |                  <img src="/images/Mr%20K%20M%20Samales.jpeg"  style="width:43%" />                               |  <img src="/images/Mr%20Philip%20Lee.jpeg"  style="width:48%" />        |
 |--------------------------------------|-------------------------------------------| -------------------------------------------------|
