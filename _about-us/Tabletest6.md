@@ -50,7 +50,7 @@ description: ""
 | **Mdm Suzanna Mohd Isnin**<br>(School Staff Developer) | **Ms Goh Xue Yi**<br>(HOD of Pupil Management) | **Mr Ho Boon Huat**<br> (HOD Mother Tongue) |
 
 
-|   <img src="/images/Mdm%20Kitha%20Arumugam.jpeg"  style="width:40%" />                   |                  <img src="/images/Mr%20Edward%20Wong.jpeg"  style="width:40%" />                               |   
+|   <img src="/images/Mdm%20Kitha%20Arumugam.jpeg"  style="width:50%" />                   |                  <img src="/images/Mr%20Edward%20Wong.jpeg"  style="width:50%" />                               |   
 |--------------------------------------|-------------------------------------------|
 | **Mdm Kitha Arumugam**  <br> (Vice - Principal) | **Mr Wong Sung Lai  Edward** <br> (Vice-Principal) |
 
