@@ -38,30 +38,6 @@ description: ""
 </tbody>
 </table>
 
-![](/images/Mr%20Edward%20Wong.jpeg)
-
-|   <img style="width:80%" src="/images/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg">                   |                  <img style="width:75%" src="/images/Mr%20K%20M%20Samales.jpeg">                               |  <img style="width:77%" src="/images/Mr%20Philip%20Lee.jpeg">        |
-|--------------------------------------|-------------------------------------------| -------------------------------------------------|
-| **Mr Abdul Halik Bin Abdul <br>Hamid**  <br> (Admin Manager) | **Mr Samales Kuppusamy** <br> (Operations Manager) | **Mr Philip Lee** <br> (ICT Manager)
-
-<br>
-<br>
-
-|   <img style="width:33%" src="/images/Mdm%20Suzanna%20Mohd%20Isnin.jpeg">                   |                  <img style="width:33%" src="/images/Ms%20Goh%20Xue%20Yi.jpeg">                               |  <img style="width:33%" src="/images/Mr%20Ho%20Boon%20Huat.jpeg">        |
-|--------------------------------------|-------------------------------------------| -------------------------------------------------|
-| **Mdm Suzanna Mohd Isnin**  <br> (Admin Manager) | **Ms Goh Xue Yi**<br>(HOD of Pupil Management) | **Mr Ho Boon Huat**<br> (HOD Mother Tongue)
-
-<br>
-
-|   <img style="width:33%" src="/images/Ms%20Indira%20do%20R%20Pillai.jpeg">                   |                  <img style="width:33%" src="/images/Mrs%20Karin%20Gan-Yeo.jpeg">                               |  <img style="width:33%" src="/images/Mr%20Christopher%20Khoo.jpeg">        |
-|--------------------------------------|-------------------------------------------| -------------------------------------------------|
-| **Ms Indira Pillai** <br> (HOD of English) | **Mrs Karin Gan Yeo**<br>(HOD of Mathematics) | **Mr Christoper Khoo**<br> (HOD of Science)
-
-<br>
-
-|   <img style="width:80%" src="/images/Ms%20Indira%20do%20R%20Pillai.jpeg">                   |                  <img style="width:63%" src="/images/Mrs%20Karin%20Gan-Yeo.jpeg">                               |  <img style="width:100%" src="/images/Mr%20Christopher%20Khoo.jpeg">        |
-|--------------------------------------|-------------------------------------------| -------------------------------------------------|
-| **Ms Indira Pillai** <br> (HOD of English) | **Mrs Karin Gan Yeo**<br>(HOD of Mathematics) | **Mr Christoper Khoo**<br> (HOD of Science)
 
 
 
