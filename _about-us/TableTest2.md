@@ -28,7 +28,7 @@ description: ""
 <br>
 <br>
 
-|   <img src="/images/Mdm%20Suzanna%20Mohd%20Isnin.jpeg"  style="width:80%" />                   |                  <img src="/images/Ms%20Goh%20Xue%20Yi.jpeg"  style="width:68%" />                               |  <img src="/images/Mr%20Ho%20Boon%20Huat.jpeg"  style="width:100%" />        |
+|   <img src="/images/Mdm%20Suzanna%20Mohd%20Isnin.jpeg"  style="width:33%" />                   |                  <img src="/images/Ms%20Goh%20Xue%20Yi.jpeg"  style="width:33%" />                               |  <img src="/images/Mr%20Ho%20Boon%20Huat.jpeg"  style="width:33%" />        |
 |--------------------------------------|-------------------------------------------| -------------------------------------------------|
 | **Mdm Suzanna Mohd Isnin**  <br> (Admin Manager) | **Ms Goh Xue Yi**<br>(HOD of Pupil Management) | **Mr Ho Boon Huat**<br> (HOD Mother Tongue)
 
