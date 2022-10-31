@@ -11,9 +11,10 @@ description: ""
 |:---:|
 | <b>Mdm Teresa Kelly Len</b><br>(Principal)|
 
-<img src="/images/Mr%20Edward%20Wong.jpeg" style="width:33%;margin-left:20px;" align = "left">
+<figure>
+<img src="/images/Mr%20Edward%20Wong.jpeg" style="width:30%;margin-left:40px;" align = "left">
 <img src="/images/Mdm%20Kitha%20Arumugam.jpeg"
-		 style="width:33%;margin-right:20px;" align = "right">
+		 style="width:30%;margin-right:40px;" align = "right">
 
 <br clear="left">
 
