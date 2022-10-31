@@ -41,6 +41,28 @@ description: ""
 </tbody>
 </table>
 
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-tlx9"><img src=/images/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg style="width:100%">Mdm Suzanna Mohd IsninSchool Staff Developer<br></td>
+    <td class="tg-tlx9"><img src=/images/Mr%20K%20M%20Samales.jpeg style="width:90%"><span style="color:#222">#Ms Goh Xue Yi</span>HOD of Pupil Management</td>
+    <td class="tg-tlx9"><img src=/images/Mr%20Philip%20Lee.jpeg style="width:100%"><span style="color:#222">Mr Ho Boon Huat</span>HOD Mother Tongue</td>
+  </tr>
+</thead>
+</table>
+
+
+
 
 
 
