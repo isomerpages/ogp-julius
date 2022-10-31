@@ -6,7 +6,7 @@ description: ""
 ## ORGANIZATIONAL CHART
 
 <figure>
-<img style="width:50%" src="/images/Mdm%20Teresa%20Kelly%20Len.jpeg"> 
+<img style="width:60%" src="/images/Mdm%20Teresa%20Kelly%20Len.jpeg"> 
 	<figcaption><b>Mdm Teresa Kelly Len</b><br>	<b>Principal</b></figcaption>
 </figure>
 
@@ -26,3 +26,4 @@ description: ""
   </tr>
 </tbody>
 </table>
+
