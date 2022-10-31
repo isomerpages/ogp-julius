@@ -34,6 +34,4 @@ description: ""
 
 |   <img src="/images/Ms%20Indira%20do%20R%20Pillai.jpeg"  style="width:80%" />                   |                  <img src="/images/Mrs%20Karin%20Gan-Yeo.jpeg"  style="width:68%" />                               |  <img src="/images/Mr%20Christopher%20Khoo.jpeg"  style="width:100%" />        |
 |--------------------------------------|-------------------------------------------| -------------------------------------------------|
-| **Mdm Suzanna Mohd Isnin** <br> School Staff Developer <br> (Admin Manager) | **Ms Goh Xue Yi**<br>(HOD of Pupil Management) | **Mr Ho Boon Huat**<br> (HOD Mother Tongue)
-
-
+| **Ms Indira Pillai** <br> School Staff Developer <br> (Admin Manager) | **Mrs Karin Gan Yeo**<br>(HOD of Pupil Management) | **Mr Christoper Khoo**<br> (HOD Mother Tongue)
