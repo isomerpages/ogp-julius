@@ -6,51 +6,32 @@ description: ""
 ## ORGANIZATIONAL CHART
 
 <figure>
-<img style="width:30%" src="/images/Mdm%20Teresa%20Kelly%20Len.jpeg"> 
+<img style="width:50%" src="/images/Mdm%20Teresa%20Kelly%20Len.jpeg"> 
 	<figcaption><b>Mdm Teresa Kelly Len</b><br>	<b>Principal</b></figcaption>
 </figure>
 
 <br>
 
-
-<img src="/images/Mr%20Edward%20Wong.jpeg" style="width:33%;margin-left:20px;" align = "left">
-<img src="/images/Mdm%20Kitha%20Arumugam.jpeg"
-		 style="width:33%;margin-right:20px;" align = "right">
-
-<br clear="left">
-
-|  |  |  
-|:---:|:---:|
-| **Mr Wong Sung Lai Edward**<br>(Vice-Principal) |**Mdm Kitha Arumugam**<br> (Vice Principal) |   |
-
-<img src="/images/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg" style="width:29.5%;margin-right:15px;" align = "left">
-<img src="/images/Mr%20K%20M%20Samales.jpeg" style="width:29%;margin-right:15px;" align = "left">
-<img src="/images/Mr%20Philip%20Lee.jpeg" style="width:29%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| **Mr Abdul Halik Bin Abdul Hamid**<br>(Admin Manager) | **Mr Samales Kuppusamy**<br>(Operations Manager) | **Mr Philip Lee**<br> (ICT Manager) |
-
-
-<img src="/images/Mdm%20Suzanna%20Mohd%20Isnin.jpeg" style="width:29.5%;margin-right:15px;" align = "left">
-<img src="/images/Ms%20Goh%20Xue%20Yi.jpeg" style="width:29%;margin-right:15px;" align = "left">
-<img src="/images/Mr%20Ho%20Boon%20Huat.jpeg" style="width:30%;margin-right:15px;" align = "left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| **Mdm Suzanna Mohd Isnin**<br>(School Staff Developer) | **Ms Goh Xue Yi**<br>(HOD of Pupil Management) | **Mr Ho Boon Huat**<br> (HOD Mother Tongue) |
-
-<figure>
-<img src="/images/Mdm%20Suzanna%20Mohd%20Isnin.jpeg" style="width:29.5%" align = "center">
-<br clear = "">
-	<br>
-<figcaption>test</figcaption>
-	</figure>
-	
-
-<img src="/images/Mdm%20Suzanna%20Mohd%20Isnin.jpeg" style="width:29.5%" align = "center">
-<br clear ="left"
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-tlx9"><img src="https://bukittimahpri.moe.edu.sg/qql/slot/u750/Staff/2021/Mdm%20Kitha%20Arumugam.jpg" alt="Mdm Kitha Arumugam.jpg" width="201"></th>
+    <th class="tg-tlx9"><img src="https://bukittimahpri.moe.edu.sg/qql/slot/u750/Staff/2021/Mr%20Edward%20Wong.jpg" alt="Mr Edward Wong.jpg" width="201"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mdm </span>Kitha Arumugam<br>Vice - Principal<br></td>
+    <td class="tg-apyk"> Mr Wong Sung Lai  Edward<br>  Vice-Principal </td>
+  </tr>
+</tbody>
+</table>
