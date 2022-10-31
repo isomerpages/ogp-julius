@@ -43,8 +43,6 @@ description: ""
 
 <br>
 
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -56,6 +54,7 @@ description: ""
 </style>
 <table class="tg">
 <thead>
+	
   <tr>
     <th class="tg-tlx9"><img src=/images/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg style="width:100%"></th>
     <th class="tg-tlx9"><img src=/images/Mr%20K%20M%20Samales.jpeg style="width:100%"></th>
