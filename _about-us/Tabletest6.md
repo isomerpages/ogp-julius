@@ -3,7 +3,8 @@ title: Tabletest6
 permalink: /about-us/tabletest6/
 description: ""
 ---
-#### **MK @ Westwood Teaching Staff**
+## ORGANIZATIONAL CHART
+
 <img style="width:30%" src="/images/Mdm%20Teresa%20Kelly%20Len.jpeg"> 
 
 
