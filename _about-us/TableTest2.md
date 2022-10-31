@@ -7,6 +7,8 @@ description: ""
 
 <img src="/images/Mdm%20Teresa%20Kelly%20Len.jpeg" style="width:50%"> 
 
+
+
 |  |
 |:---:|
 | <b>Mdm Teresa Kelly Len</b><br>(Principal)|
@@ -26,8 +28,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-zkss"><img height="302" width="201" src="/images/Mdm%20Kitha%20Arumugam.jpeg">
-    </th><th class="tg-tlx9"><img height="302" width="201" src="/images/Mr%20Edward%20Wong.jpeg"></th>
+    <th class="tg-zkss"><img src="/images/Mdm%20Kitha%20Arumugam.jpeg" style="width:40%"> 
+    </th><th class="tg-tlx9"><img src="/images/Mdm%20Kitha%20Arumugam.jpeg" style="width:40%"> </th>
 	</tr>
 </thead>
 <tbody>
