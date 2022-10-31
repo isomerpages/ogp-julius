@@ -32,8 +32,8 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mdm </span>Kitha Arumugam<br><br>Vice - Principal<br></td>
-    <td class="tg-apyk"><br>  Mr Wong Sung Lai  Edward<br>  Vice-Principal</td>
+    <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mdm </span>Kitha Arumugam<br>Vice - Principal<br></td>
+    <td class="tg-apyk">Mr Wong Sung Lai  Edward<br>  Vice-Principal</td>
   </tr>
 </tbody>
 </table>
