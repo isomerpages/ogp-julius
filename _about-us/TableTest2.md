@@ -32,13 +32,16 @@ description: ""
 |--------------------------------------|-------------------------------------------| -------------------------------------------------|
 | **Mdm Suzanna Mohd Isnin**  <br> (Admin Manager) | **Ms Goh Xue Yi**<br>(HOD of Pupil Management) | **Mr Ho Boon Huat**<br> (HOD Mother Tongue)
 
+<br>
+
 |   <img src="/images/Ms%20Indira%20do%20R%20Pillai.jpeg"  style="width:33%" />                   |                  <img src="/images/Mrs%20Karin%20Gan-Yeo.jpeg"  style="width:33%" />                               |  <img src="/images/Mr%20Christopher%20Khoo.jpeg"  style="width:33%" />        |
 |--------------------------------------|-------------------------------------------| -------------------------------------------------|
 | **Ms Indira Pillai** <br> (HOD of English) | **Mrs Karin Gan Yeo**<br>(HOD of Mathematics) | **Mr Christoper Khoo**<br> (HOD of Science)
 
 <br>
-<br>
 
 |   <img src="/images/Ms%20Indira%20do%20R%20Pillai.jpeg"  style="width:80%" />                   |                  <img src="/images/Mrs%20Karin%20Gan-Yeo.jpeg"  style="width:63%" />                               |  <img src="/images/Mr%20Christopher%20Khoo.jpeg"  style="width:100%" />        |
 |--------------------------------------|-------------------------------------------| -------------------------------------------------|
 | **Ms Indira Pillai** <br> (HOD of English) | **Mrs Karin Gan Yeo**<br>(HOD of Mathematics) | **Mr Christoper Khoo**<br> (HOD of Science)
+
+test2
