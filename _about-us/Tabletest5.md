@@ -15,8 +15,8 @@ description: ""
 <table>
 <thead>
   <tr>
-    <th><img src=/images/Mdm%20Kitha%20Arumugam.jpeg alt="Mdm Kitha Arumugam.jpg" width="201"></th>
-    <th><img src=/images/Mr%20Edward%20Wong.jpeg alt="Mr Edward Wong.jpg" width="201"></th>
+    <th><img src=/images/Mdm%20Kitha%20Arumugam.jpeg width="201"></th>
+    <th><img src=/images/Mr%20Edward%20Wong.jpeg width="201"></th>
   </tr>
 </thead>
 <tbody>
@@ -52,4 +52,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
