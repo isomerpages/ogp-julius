@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Tabletest6.md
       - Tabletest5.md
       - Tabletest4.md
       - Tabletest3.md
