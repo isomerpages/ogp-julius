@@ -25,6 +25,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-tlx9"><img style="width:70%" src=/images/Mdm%20Kitha%20Arumugam.jpeg> </th>
+	<br>
     <th class="tg-tlx9"><img style="width:73%" src=/images/Mr%20Edward%20Wong.jpeg></th>
   </tr>
 </thead>
