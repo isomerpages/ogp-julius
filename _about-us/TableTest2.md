@@ -5,7 +5,7 @@ description: ""
 ---
 ## ORGANIZATIONAL CHART
 
-<img style="width:50%" src="https://file.go.gov.sg/67u60i.JPG"> 
+<img style="width:40%" src="/images/Mdm%20Teresa%20Kelly%20Len.jpeg"> 
 
 |  |
 |:---:|
