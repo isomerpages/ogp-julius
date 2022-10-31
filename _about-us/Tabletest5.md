@@ -6,7 +6,7 @@ description: ""
 ## ORGANIZATIONAL CHART
 
 <figure>
-<img style="width:40%" src="/images/Mdm%20Teresa%20Kelly%20Len.jpeg"> 
+<img style="width:50%" src="/images/Mdm%20Teresa%20Kelly%20Len.jpeg"> 
 	<figcaption><b>Mdm Teresa Kelly Len</b><br>	<b>Principal</b></figcaption>
 </figure>
 
@@ -21,8 +21,8 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td>Mdm Kitha Arumugam<br><br>Vice - Principal<br></td>
-    <td>  Mr Wong Sung Lai  Edward<br>  Vice-Principa</td>
+		<td><b>Mdm Kitha Arumugam</b><br><b>(Vice - Principal)</b></td>
+		<td><b>Mr Wong Sung Lai  Edward</b><br><b>(Vice-Principal)</b></td>
   </tr>
 </tbody>
 </table>
