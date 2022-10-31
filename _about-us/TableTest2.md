@@ -27,7 +27,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-zkss"><img style="width:50%" src="https://file.go.gov.sg/67u60i.JPG"> </th>
-    <th class="tg-tlx9"><img src="https://file.go.gov.sg/u4i7eo.JPG"  width="201" height="302"></th>
+    <th class="tg-tlx9"><img src="/images/Mr%20Edward%20Wong.jpeg"  width="201" height="302"></th>
 	</tr>
 </thead>
 <tbody>
@@ -37,6 +37,8 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+![](/images/Mr%20Edward%20Wong.jpeg)
 
 |   <img src="/images/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg"  style="width:80%" />                   |                  <img src="/images/Mr%20K%20M%20Samales.jpeg"  style="width:75%" />                               |  <img src="/images/Mr%20Philip%20Lee.jpeg"  style="width:77%" />        |
 |--------------------------------------|-------------------------------------------| -------------------------------------------------|
