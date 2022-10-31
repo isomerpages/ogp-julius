@@ -17,9 +17,9 @@ description: ""
 
 <br clear="left">
 
-|  |  |  
-|:---:|:---:|
-| **Mr Wong Sung Lai Edward**<br>(Vice-Principal) |**Mdm Kitha Arumugam**<br> (Vice Principal) |   |
+|  |  |  |
+|:---:|:---:| :---:|
+| **Mr Wong Sung Lai Edward**<br>(Vice-Principal) | |  **Mdm Kitha Arumugam**<br> (Vice Principal) | |
 
 
 <img src="/images/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg" style="width:29.5%;margin-right:15px;" align = "left">
