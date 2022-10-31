@@ -24,8 +24,8 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-tlx9"><img src="/images/Mdm%20Kitha%20Arumugam.jpeg" alt="Mdm Kitha Arumugam.jpg" width=201></th>
-    <th class="tg-tlx9"><img src=/images/Mr%20Edward%20Wong.jpeg alt="Mr Edward Wong.jpg" width="201"></th>
+    <th class="tg-tlx9"><img src="/images/Mdm%20Kitha%20Arumugam.jpeg" alt="Mdm Kitha Arumugam.jpg" width="100"></th>
+    <th class="tg-tlx9"><img src=/images/Mr%20Edward%20Wong.jpeg alt="Mr Edward Wong.jpg" width="100"></th>
   </tr>
 </thead>
 <tbody>
