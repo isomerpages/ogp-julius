@@ -54,9 +54,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-tlx9"><img src=/images/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg style="width:100%"><b>Mr Abdul Halik Bin</b><br><b>Hamid</b><br>(School Staff Developer)<br></td>
-    <td class="tg-tlx9"><img src=/images/Mr%20K%20M%20Samales.jpeg style="width:90%"><span style="color:#222"><b>Mr K M Samales</b></span><br>(Operations Manager)</td>
-    <td class="tg-tlx9"><img src=/images/Mr%20Philip%20Lee.jpeg style="width:100%"><span style="color:#222"><b>Mr Phillip Lee</b></span><br>(ICT Manager)</td>
+    <td class="tg-tlx9"><img src=/images/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg style="width:100%">
+    <td class="tg-tlx9"><img src=/images/Mr%20K%20M%20Samales.jpeg style="width:90%">
+    <td class="tg-tlx9"><img src=/images/Mr%20Philip%20Lee.jpeg style="width:100%">
   </tr>
 </thead>
 </table>
