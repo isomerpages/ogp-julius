@@ -34,6 +34,8 @@ description: ""
 |  |  |  | |  |
 |:---:|:---:|:---:| :---:|:---:|
  **Mr Abdul Halik Bin Abdul Hamid**<br>(Admin Manager| **Mr Samales Kuppusamy**<br>(Operations Manager) | **Mr Philip Lee**<br> (ICT Manager) |  |
+ 
+<br>
 
 
 <img src="/images/Mdm%20Suzanna%20Mohd%20Isnin.jpeg" style="width:20%;margin-right:15px;" align = "left">
@@ -45,5 +47,7 @@ description: ""
 |  |  |  | 
 |:---:|:---:|:---:|
 | **Mdm Suzanna Mohd Isnin**<br>(School Staff Developer) | **Ms Goh Xue Yi**<br>(HOD of Pupil Management) | **Mr Ho Boon Huat**<br> (HOD Mother Tongue) |
+
+<br>
 
 test2
