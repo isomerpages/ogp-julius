@@ -56,3 +56,31 @@ description: ""
   </tr>
 </thead>
 </table>
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-pll1{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-pll1"><img src="https://bukittimahpri.moe.edu.sg/qql/slot/u750/Staff/Staff%202020/Ms%20Indira%20do%20R%20Pillai.JPG" alt="Ms Indira do R Pillai.JPG" width="213"></th>
+    <th class="tg-pll1"><img src="https://bukittimahpri.moe.edu.sg/qql/slot/u750/Staff/Staff%202020/Mrs%20Karin%20Gan-Yeo.JPG" alt="Mrs Karin Gan-Yeo.JPG" width="206"></th>
+    <th class="tg-ii8k"><img src="https://bukittimahpri.moe.edu.sg/qql/slot/u768/Staff%20Photos/Website%20Staff%20Photo/Mr%20Christopher%20Khoo[1].JPG" alt="Mr Christopher Khoo.JPG" width="205" height="316"><span style="color:#222;background-color:#EAEAEA"># </span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt">Ms Indira d/o Raghavan Pillai <br>HOD of English<br></td>
+    <td class="tg-n4qt">Mrs Karin GanHOD of Mathematics</td>
+    <td class="tg-n4qt">Mr Christopher Khoo <br>HOD of Science</td>
+  </tr>
+</tbody>
+</table>
