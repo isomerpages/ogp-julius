@@ -5,8 +5,7 @@ description: ""
 ---
 ## ORGANIZATIONAL CHART
 
-<img style="width:30%" src="/images/Mdm%20Teresa%20Kelly%20Len.jpeg"> 
-
+<img style="width:30%" src="https://file.go.gov.sg/67u60i.JPG"> 
 
 |  |
 |:---:|
@@ -14,12 +13,30 @@ description: ""
 
 <br>
 
-|   <img src="/images/Mdm%20Kitha%20Arumugam.jpeg"  style="width:50%" />                   |                  <img src="/images/Mr%20Edward%20Wong.jpeg"  style="width:50%" />                               |   
-|--------------------------------------|-------------------------------------------|
-| **Mdm Kitha Arumugam**  <br> (Vice - Principal) | **Mr Wong Sung Lai  Edward** <br> (Vice-Principal) |
-
-<br>
-<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-zkss{background-color:#FFF;border-color:inherit;color:#333;text-align:center;vertical-align:top}
+.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-zkss"><img src="https://file.go.gov.sg/u4i7eo.JPG" width="201" height="302"></th>
+    <th class="tg-tlx9"><img src="https://file.go.gov.sg/rirg95.JPG"  width="201" height="302"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mdm </span>Kitha Arumugam<br><br>Vice - Principal<br></td>
+    <td class="tg-apyk"><br>  Mr Wong Sung Lai  Edward<br>  Vice-Principal</td>
+  </tr>
+</tbody>
+</table>
 
 |   <img src="/images/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg"  style="width:80%" />                   |                  <img src="/images/Mr%20K%20M%20Samales.jpeg"  style="width:75%" />                               |  <img src="/images/Mr%20Philip%20Lee.jpeg"  style="width:77%" />        |
 |--------------------------------------|-------------------------------------------| -------------------------------------------------|
@@ -44,7 +61,7 @@ description: ""
 |--------------------------------------|-------------------------------------------| -------------------------------------------------|
 | **Ms Indira Pillai** <br> (HOD of English) | **Mrs Karin Gan Yeo**<br>(HOD of Mathematics) | **Mr Christoper Khoo**<br> (HOD of Science)
 
-<br>
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
