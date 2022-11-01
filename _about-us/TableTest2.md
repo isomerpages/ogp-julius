@@ -57,7 +57,7 @@ description: ""
   <tr>
     <th class="tg-tlx9"><img src=/images/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg style="width:100%"></th>
     <th class="tg-tlx9"><img src="/images/Mdm%20Kitha%20Arumugam.jpeg" style="width:100%"> </th>
-    <th class="tg-tlx9"><img src="https://bukittimahpri.moe.edu.sg/qql/slot/u750/Staff/2021/Mr%20Edward%20Wong.jpg" alt="Mr Edward Wong.jpg" width="201" height="302"></th>
+    <th class="tg-tlx9"><img src="/images/Mr%20Edward%20Wong.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
