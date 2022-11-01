@@ -58,15 +58,15 @@ description: ""
   <tr>
     <th class="tg-tlx9"><img src="/images/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg" style="width:70%"></th>
     <th class="tg-tlx9"><img src="/images/Mr%20K%20M%20Samales.jpeg"
-style="width:73%"></th>
+style="width:60%"></th>
     <th class="tg-tlx9"><img src="/images/Mr%20Philip%20Lee.jpeg" style="width:70%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mdm </span>Kitha Arumugam<br><br>Vice - Principal<br></td>
-    <td class="tg-apyk"><br>  Mr Wong Sung Lai  Edward<br>  Vice-Principal </td>
-    <td class="tg-apyk"><br>  Mr Wong Sung Lai  Edward<br>  Vice-Principal </td>
+    <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mr  </span>Abdul Halik Bin Abdul Hamid<br>Admin Manager<br></td>
+    <td class="tg-apyk">Mr Samales Kuppusamy<br> Operations Manager</td>
+    <td class="tg-apyk">Mr Phillip Lee<br>ICT Manager</td>
   </tr>
 </tbody>
 </table>
