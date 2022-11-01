@@ -55,7 +55,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-tlx9"><img src=/images/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg style="width:100%"></th>
+    <th class="tg-tlx9"><img src="/images/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg" style="width:100%"></th>
     <th class="tg-tlx9"><img src="/images/Mdm%20Kitha%20Arumugam.jpeg" style="width:100%"> </th>
     <th class="tg-tlx9"><img src="/images/Mr%20Edward%20Wong.jpeg" style="width:100%"></th>
   </tr>
