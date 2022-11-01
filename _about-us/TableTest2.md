@@ -56,10 +56,10 @@ description: ""
 <thead>
 	
   <tr>
-    <th class="tg-tlx9"><img src="/images/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg" style="width:50%"></th>
+    <th class="tg-tlx9"><img src="/images/Mr%20Abdul%20Halik%20Bin%20Abdul%20Hamid.jpeg" style="width:70%"></th>
     <th class="tg-tlx9"><img src="/images/Mr%20K%20M%20Samales.jpeg"
-style="width:50%"></th>
-    <th class="tg-tlx9"><img src="/images/Mr%20Philip%20Lee.jpeg" style="width:50%"></th>
+style="width:73%"></th>
+    <th class="tg-tlx9"><img src="/images/Mr%20Philip%20Lee.jpeg" style="width:70%"></th>
   </tr>
 </thead>
 <tbody>
