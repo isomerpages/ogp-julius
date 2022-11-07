@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Testing
       subtitle: This is hero subtitle!
-      background: /images/Our mission_for Isomer.jpg
+      background: /images/Our_mission_for_Isomer_795x380.jpeg
       url: /contact-us/
       key_highlights:
         - title: Highlight A
