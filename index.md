@@ -7,8 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Testing
-      subtitle: This is hero subtitle!
       background: /images/Main page image_for Isomer.jpeg
       url: /contact-us/
       key_highlights:
