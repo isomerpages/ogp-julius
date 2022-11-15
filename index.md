@@ -18,6 +18,7 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
+      background: /images/banner2.jpg
   - infobar:
       title: Infobar title
       subtitle: Subtitle
