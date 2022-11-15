@@ -18,7 +18,7 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
-      background: /images/Main page image_for Isomer.jpeg
+      background: /images/Banner5.png
   - infobar:
       title: Infobar title
       subtitle: Subtitle
