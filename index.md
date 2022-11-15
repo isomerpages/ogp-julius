@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Main page image_for Isomer.jpeg
       url: /contact-us/
       key_highlights:
         - title: Highlight A
