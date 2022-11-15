@@ -30,11 +30,9 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      image: /images/pexels-tima-miroshnichenko-5717641.jpg
-      alt: Image alt text
+  - infobar:
+      description: <div align=center><iframe
+        src="https://docs.google.com/presentation/d/e/2PACX-1vRD5RVbiYVBcL3OLto5GmuLnQgVabhqQE10FNX-hmcpgtFBcTorRnUdrRVM67PNEw/embed?start=true&loop=true&delayms=3000"
+        frameborder="0" width="800" height="485" allowfullscreen="true"
+        mozallowfullscreen="true" webkitallowfullscreen="true" ></iframe></div>
 ---
