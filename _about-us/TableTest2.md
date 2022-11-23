@@ -8,10 +8,11 @@ description: ""
 Congratulations to our SKY prides for attaining 3 D&T awards out of 29 winning entries. 1) Creative aesthetics, 2) Creative adaptation and 3) Creative innovation!
 
 ![](/images/Achievements/DT%201.png)
-
 ![](/images/Achievements/DT%202.png)
 
-<br><font size="5">Award Recipients 2022</font><br>
+<font size="5">Award Recipients 2022</font>
+
+<br>
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 824px">
   <colgroup>
@@ -421,4 +422,3 @@ We are pleased to announce that Raishyan, our footballer alumni who was a key pl
     </tr>
   </tbody>
 </table>
-
