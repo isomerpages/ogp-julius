@@ -155,4 +155,4 @@ style="width:65%"></th>
 </tbody>
 </table>
 
-test2
+![](/images/TABLE.png)
