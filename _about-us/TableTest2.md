@@ -12,8 +12,6 @@ Congratulations to our SKY prides for attaining 3 D&T awards out of 29 winning e
 
 <b><font size="5">Award Recipients 2022</font></b>
 
-<br>
-
 <table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 824px">
   <colgroup>
     <col style="width: 151px">
@@ -51,8 +49,6 @@ Congratulations to our SKY prides for attaining 3 D&T awards out of 29 winning e
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Singapore equestrian rider Maximillian Tan is all smiles as he scores 61.588 | Paralympics 2020" src="https://www.youtube.com/embed/Cufekaf266M" height="388" width="690"></iframe>
 
 <b><font size="5">Award Recipients 2021</font></b>
-
-<br>
 
 <table class="tg" style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 824px">
   <colgroup>
