@@ -2,7 +2,7 @@
 layout: homepage
 title: Test
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/school logo.png
 permalink: /
 notification: ""
 sections:
@@ -61,3 +61,4 @@ sections:
         mozallowfullscreen="true" webkitallowfullscreen="true" ></iframe>
       button: Button Text
 ---
+
