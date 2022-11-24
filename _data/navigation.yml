@@ -2,15 +2,9 @@ logo: /images/logo.png
 links:
   - title: Example Page
     url: /example-page/
-  - title: Example Folder
-    collection: example-folder
   - title: Hello
     collection: hello
-  - title: Content
-    url: /content/permalink/
   - title: Resources
     resource_room: true
   - title: About Us
     collection: about-us
-  - title: Departments
-    collection: departments
