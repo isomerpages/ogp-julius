@@ -17,3 +17,20 @@ description: ""
 
 
 <iframe allowfullscreen="true" height="485" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRD5RVbiYVBcL3OLto5GmuLnQgVabhqQE10FNX-hmcpgtFBcTorRnUdrRVM67PNEw/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+<table>
+<thead>
+  <tr>
+    <th><img src="https://moe-bukittimahpri-staging.netlify.app/images/Staff%20Photos/Organisation%20Photos/mr%20abdul%20halik%20bin%20abdul%20hamid.jpeg" alt="Image" width="174"></th>
+    <th><img src="https://moe-bukittimahpri-staging.netlify.app/images/Staff%20Photos/Organisation%20Photos/mdm%20nurhayati%20bte%20rahmat.jpeg" width="173"></th>
+    <th><img src="https://moe-bukittimahpri-staging.netlify.app/images/Staff%20Photos/Organisation%20Photos/mr%20samales%20kuppusamy.jpeg" width="174"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Mr Abdul Halik Bin Abdul Hamid<br>Admin Manager<br></td>
+    <td>Mdm Nurhayati Bte Rahmat<br>Admin Manager</td>
+    <td>Mr Samales Kuppusamy<br>Operations Manager</td>
+  </tr>
+</tbody>
+</table>
