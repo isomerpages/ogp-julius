@@ -71,19 +71,19 @@ Email : ntps@moe.edu.sg<br>
     </tr>
     <tr style="mso-yfti-irow:1;height:87.0pt">
       <td style="width:90.75pt;border:none;border-bottom:solid white 1.0pt; mso-border-bottom-alt:solid white .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:87.0pt" valign="top" width="121">
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;color:#222222" lang="EN">School Bus</span></p>
+        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><span style="font-size:14.0pt;color:#222222" lang="EN">School Bus</span></p>
       </td>
       <td style="width:366.0pt;border:none;border-bottom:solid white 1.0pt; mso-border-bottom-alt:solid white .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:87.0pt" valign="top" width="488">
-        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt; color:#222222" lang="EN">Sky Island Transport & Trading</span></b></p>
+        <p style="margin-right:8.0pt;line-height:normal" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="font-size:12.0pt; color:#222222" lang="EN">Sky Island Transport & Trading</span></b></p>
         <table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none; mso-border-alt:solid #AAAAAA .75pt;mso-yfti-tbllook:1536;mso-padding-alt: 0in 5.4pt 0in 5.4pt;mso-border-insideh:.75pt solid #AAAAAA;mso-border-insidev: .75pt solid #AAAAAA" width="376" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable">
           <tbody>
             <tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:35.25pt">
               <td style="width:61.65pt;border:solid #AAAAAA 1.0pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:35.25pt" valign="top" width="82">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;color:#222222" lang="EN">Tel</span></p>
+                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#222222" lang="EN">Tel</span></p>
               </td>
               <td style="width:220.7pt;border:solid #AAAAAA 1.0pt; border-left:none;mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt: solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt;height:35.25pt" valign="top" width="294">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;color:#222222" lang="EN">9188 4698</span></p>
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;color:#222222" lang="EN">9009 0569</span></p>
+                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#222222" lang="EN">9188 4698</span></p>
+                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#222222" lang="EN">9009 0569</span></p>
               </td>
             </tr>
             <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:21.0pt">
