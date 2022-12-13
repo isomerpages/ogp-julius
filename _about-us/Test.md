@@ -82,7 +82,9 @@ Email : ntps@moe.edu.sg<br>
                 <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Tel</span></p>
               </td>
               <td style="width:220.7pt;border:solid #AAAAAA 1.0pt; border-left:none;mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt: solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt;height:32.25pt" valign="top" width="294">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">9188 4698<br><br>9009 0569</span></p>
+                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">9188 4698<br>
+                <br>
+                9009 0569</span></p>
               </td>
             </tr>
             <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:21.0pt">
@@ -112,7 +114,9 @@ Email : ntps@moe.edu.sg<br>
                 <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Address</span></p>
               </td>
               <td style="width:183.0pt;border:solid #AAAAAA 1.0pt; border-left:none;mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt: solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt;height:48.75pt" valign="top" width="244">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">BB @ Henderson Road<br>213 Henderson Road, #01-12<br>Singaopre 159553</span></p>
+                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">BB @ Henderson Road<br>
+                213 Henderson Road, #01-12<br>
+                Singaopre 159553</span></p>
               </td>
             </tr>
             <tr style="mso-yfti-irow:1;height:21.0pt">
@@ -159,7 +163,11 @@ Email : ntps@moe.edu.sg<br>
                 <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">Tel</span></p>
               </td>
               <td style="width:153.0pt;border:solid #AAAAAA 1.0pt; border-left:none;mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt: solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt;height:48.75pt" valign="top" width="204">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">6950 7524<br><BR>9833 1081 <br><br> 8711 1458</span>
+                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:13.0pt;color:#222222" lang="EN">6950 7524<br>
+                <br>
+                9833 1081<br>
+                <br>
+                8711 1458</span></p>
               </td>
             </tr>
             <tr style="mso-yfti-irow:1;height:21.0pt">
