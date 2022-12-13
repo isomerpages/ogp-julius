@@ -81,9 +81,8 @@ Email : ntps@moe.edu.sg<br>
               <td style="width:61.65pt;border:solid #AAAAAA 1.0pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:35.25pt" valign="top" width="82">
                 <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#222222" lang="EN">Tel</span></p>
               </td>
-              <td style="width:220.7pt;border:solid #AAAAAA 1.0pt; border-left:none;mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt: solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt;height:35.25pt" valign="top" width="294">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#222222" lang="EN">9188 4698</span></p>
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#222222" lang="EN">9009 0569</span></p>
+              <td style="width:220.7pt;border:solid #AAAAAA 1.0pt; border-left:none;mso-border-left-alt:solid #AAAAAA .75pt;mso-border-alt: solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt;height:32.25pt" valign="top" width="294">
+                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#222222" lang="EN">9188 4698<br><br>9009 0569</span></p>
               </td>
             </tr>
             <tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:21.0pt">
