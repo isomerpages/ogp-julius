@@ -52,15 +52,15 @@ Email : ntps@moe.edu.sg<br>
                 <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#222222" lang="EN">Email</span></p>
               </td>
               <td style="width:249.3pt;border-top:none;border-left: none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt; mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:21.0pt" valign="top" width="332">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;color:#1870B6" lang="EN">admin@the-continental.com.sg</span></p>
+                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#1870B6" lang="EN">admin@the-continental.com.sg</span></p>
               </td>
             </tr>
             <tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:21.0pt">
               <td style="width:69.7pt;border:solid #AAAAAA 1.0pt; border-top:none;mso-border-top-alt:solid #AAAAAA .75pt;mso-border-alt:solid #AAAAAA .75pt; padding:3.0pt 3.0pt 3.0pt 6.0pt;height:21.0pt" valign="top" width="93">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:10.0pt;color:#222222" lang="EN">Booklists</span></p>
+                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span style="font-size:12.0pt;color:#222222" lang="EN">Booklists</span></p>
               </td>
               <td style="width:249.3pt;border-top:none;border-left: none;border-bottom:solid #AAAAAA 1.0pt;border-right:solid #AAAAAA 1.0pt; mso-border-top-alt:solid #AAAAAA .75pt;mso-border-left-alt:solid #AAAAAA .75pt; mso-border-alt:solid #AAAAAA .75pt;padding:3.0pt 3.0pt 3.0pt 6.0pt; height:21.0pt" valign="top" width="332">
-                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span lang="EN"><a href="https://drive.google.com/drive/u/1/folders/17BvECiehbFGizSvUH7SFOuM0KcHQTnVB"><span style="font-size:10.0pt;color:#1870B6;text-decoration:none;text-underline: none">link</span></a></span></p>
+                <p style="margin-right:16.0pt;line-height:normal" class="MsoNormal"><span lang="EN"><a href="https://drive.google.com/drive/u/1/folders/17BvECiehbFGizSvUH7SFOuM0KcHQTnVB"><span style="font-size:12.0pt;color:#1870B6;text-decoration:none;text-underline: none">link</span></a></span></p>
               </td>
             </tr>
           </tbody>
