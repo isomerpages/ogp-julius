@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - GoogleSldiesEmbed.md
       - Mayflower Table.md
       - Test4.md
       - Test3.md
