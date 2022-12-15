@@ -622,7 +622,7 @@ description: ""
 
 <br>
 <img style="width:500px" src="/images/image018e.jpg">
-<p style="text-align: center"><strong>Commemorating International Day of Biological Diversity</strong></p></li>
+<p style="text-align: center"><strong>Commemorating International Day of Biological Diversity</strong></p>
 
 <li>
     <input type="checkbox" id="accordion3">
