@@ -871,4 +871,4 @@ description: ""
 <img style="width:500px" src="/images/02it2.jpg">
 <br>
 <p style="text-align: center"><strong>Our 2020 HBL Toy Photography Challenge</strong></p>
-</div></li></ul>
+</div></li>
