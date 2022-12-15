@@ -176,8 +176,8 @@ description: ""
 
 <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h5 style="color:purple">Environmental Science Club</h5 </label>
-<div>
+    <label for="accordion2"><h5 style="color:purple">Environmental Science Club</h5></label>
+
 <img src="/images/env1.jpg" 
          style="width:500px"
 	/>
