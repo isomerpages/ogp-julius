@@ -179,8 +179,7 @@ description: ""
     <label for="accordion2"><h5 style="color:purple">Environmental Science Club</h5></label><div>
 
 <img src="/images/env1.jpg" 
-         style="width:500px"
-	/>
+         style="width:500px"/>
 <br>
 <p><strong>About Environmental Science Club</strong></p>
 <p>The JWSS Science Club is dedicated to enriching the science culture in Jurong West Secondary School as well as promoting environmental conservation and raising awareness to preserve the biodiversity of Singapore.</p>
@@ -623,8 +622,7 @@ description: ""
 
 <br>
 <img style="width:500px" src="/images/image018e.jpg">
-<p style="text-align: center"><strong>Commemorating International Day of Biological Diversity</strong></p>
-</li>
+<p style="text-align: center"><strong>Commemorating International Day of Biological Diversity</strong></p></li>
 
 <li>
     <input type="checkbox" id="accordion3">
