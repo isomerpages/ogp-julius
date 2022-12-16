@@ -1523,7 +1523,6 @@ Mdm Ravindran Arul Jothi<br>Ms Jennifer Wu</td>
 </div></li>
 	
 <li>
-	
 <input type="checkbox" id="accordion4">
 <label for="accordion4"><h5 style="color:purple">Modern Dance Club</h5></label>
 <div>
