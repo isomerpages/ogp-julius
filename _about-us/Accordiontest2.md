@@ -1524,7 +1524,7 @@ Mdm Ravindran Arul Jothi<br>Ms Jennifer Wu</td>
 </div>
 	
 <li>
-  <input type="checkbox" id="accordion4">
+  <input type="checkbox" id="accordion4"/>
   <label for="accordion4"><h5 style="color:purple">Modern Dance Club</h5</label>
 <div>
 
@@ -1803,4 +1803,4 @@ JWSS 20th Anniversary &amp; Speech and Prize Giving Day Performance 2021
 <img style="width:500px" src="/images/Frontier_3.jpg">
 <br>
 <p style="text-align: center"><strong>All the P6 students trying the choreography taught by the dancers in unison.</strong></p>
-</div></li>
+</div>
