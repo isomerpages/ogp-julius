@@ -1020,7 +1020,6 @@ Mdm Ravindran Arul Jothi<br>Ms Jennifer Wu</td>
 <img src="/images/symphonic31.jpg" style="width:500px">
 <br>
 </div></li>
-</ul>
 
 <li>
 <input type="checkbox" id="accordion3" />
