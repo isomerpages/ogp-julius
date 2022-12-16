@@ -1019,10 +1019,11 @@ Mdm Ravindran Arul Jothi<br>Ms Jennifer Wu</td>
 <br>
 <img src="/images/symphonic31.jpg" style="width:500px">
 <br>
-</div></li></ul>
+</div></li>
+</ul>
 
 <li>
-<input type="checkbox" id="accordion3"/>
+<input type="checkbox" id="accordion3" />
 <label for="accordion3"><h5 style="color:purple">English Language, Drama and Debating</h5></label>
 <div>
 <img src="/images/ELDD%20Website%20Main%20Pic.jpeg" style="width:500px">
