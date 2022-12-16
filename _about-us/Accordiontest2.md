@@ -1803,4 +1803,4 @@ JWSS 20th Anniversary &amp; Speech and Prize Giving Day Performance 2021
 <img style="width:500px" src="/images/Frontier_3.jpg">
 <br>
 <p style="text-align: center"><strong>All the P6 students trying the choreography taught by the dancers in unison.</strong></p>
-</div>
+	</div></li>
