@@ -57,4 +57,8 @@ sections:
       subtitle: Infobar Subtitle
       description: <br><br><br><br><br><br><br><br> hello
       button: Button Text
+  - resources:
+      title: Title
+      subtitle: "Room "
+      button: Resources Button Name
 ---
