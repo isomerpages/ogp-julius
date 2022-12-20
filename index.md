@@ -36,7 +36,6 @@ sections:
         frameborder="0" width="800" height="485" allowfullscreen="true"
         mozallowfullscreen="true" webkitallowfullscreen="true" ></iframe></div>'
   - resources:
-      title: Title
-      subtitle: "Room "
-      button: Resources Button Name
+      title: News
+      button: More
 ---
