@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d1a3bamzqsz82x.amplifyapp.com
 prod: https://master.d1a3bamzqsz82x.amplifyapp.com
-resources_name: room
+resources_name: hello
 shareicon: /images/Cropped .png
 is_government: false
 facebook-pixel: ""
