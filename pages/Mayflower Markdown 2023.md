@@ -10,11 +10,11 @@ description: ""
 |---|---|---|
 | 1 Care | Ong Ai Tee<br>[Ong_Ai_Tee@moe.edu.sg](mailto:Ong_Ai_Tee@moe.edu.sg)| Mdm Ong Chong Fen<br>[ong_chong_fen@moe.edu.sg](mailto:ong_chong_fen@moe.edu.sg) <br> |
 | 1 Commitment | Ms Suhaila Bte Bidin<br> [suhaila_bidin@moe.edu.sg](mailto:suhaila_bidin@moe.edu.sg) | Ms Sezhiyan Nandhini <br>[sezhiyan_nandhini@moe.edu.sg](mailto:sezhiyan_nandhini@moe.edu.sg) |
-| 1 Excellence | <br>Mdm Suriana Binte Suhaini<br><br>suriana_suhaini@moe.edu.sg | <br>Mdm Tan Sze Hooi<br> tan_sze_hooi@moe.edu.sg |
-| 1 Integrity | <br>Mdm Poh Ai Min (Mrs Ang)<br><br>poh_ai_min@moe.edu.sg | <br>Mdm Chen Yit Kai<br><br>chen_yit_kai@moe.edu.sg |
-| 1 Resilience | Ms Vinlee Toh <br>vinlee_toh@moe.edu.sg | <br><br>Ms Ngik Ting Ting<br> ngik_ting_ting@moe.edu.sg<br><br>Mr Lee Zi An Amos<br><br>lee_zi_an_amos@moe.edu.sg |
-| 1 Respect | <br>Mdm Nordiana Bte Sani <br>nordiana_sani@moe.edu.sg | Mr Leong Jing Xiong Merrill<br>leong_jing_xiong_merrill@moe.edu.sg |
-| 1 Service | Mdm Elaine Lai Pek Ling (Mrs Elaine Lim) <br>elaine_lai_pek_ling@moe.edu.sg | Mdm Gao Xin <br>gao_xini@moe.edu.sg |
+| 1 Excellence | Mdm Suriana Binte Suhaini<br>[suriana_suhaini@moe.edu.sg](mailto:suriana_suhaini@moe.edu.sg) | Mdm Tan Sze Hooi<br> [tan_sze_hooi@moe.edu.sg](mailto:tan_sze_hooi@moe.edu.sg) |
+| 1 Integrity | Mdm Poh Ai Min (Mrs Ang)<br>[poh_ai_min@moe.edu.sg](mailto:poh_ai_min@moe.edu.sg) | Mdm Chen Yit Kai<br>[chen_yit_kai@moe.edu.sg](mailto:chen_yit_kai@moe.edu.sg) |
+| 1 Resilience | Ms Vinlee Toh <br>[vinlee_toh@moe.edu.sg](mailto:vinlee_toh@moe.edu.sg) | Ms Ngik Ting Ting<br> [ngik_ting_ting@moe.edu.sg](mailto:ngik_ting_ting@moe.edu.sg)<br><br>Mr Lee Zi An Amos<br>[lee_zi_an_amos@moe.edu.sg](mailto:lee_zi_an_amos@moe.edu.sg) |
+| 1 Respect | Mdm Nordiana Bte Sani <br>[nordiana_sani@moe.edu.sg](mailto:nordiana_sani@moe.edu.sg) | Mr Leong Jing Xiong Merrill<br>[leong_jing_xiong_merrill@moe.edu.sg](leong_jing_xiong_merrill@moe.edu.sg) |
+| 1 Service | Mdm Elaine Lai Pek Ling (Mrs Elaine Lim) <br>[elaine_lai_pek_ling@moe.edu.sg](mailto:elaine_lai_pek_ling@moe.edu.sg)| Mdm Gao Xin <br>[gao_xini@moe.edu.sg](mailto:gao_xini@moe.edu.sg) |
 
 #### **Primary 2 Teachers 2022**
 
