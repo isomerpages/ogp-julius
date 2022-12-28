@@ -42,10 +42,10 @@ description: ""
 | Class | Form Teacher | Form Teacher(s) |
 |---|---|---|
 | 4 Excellence | Ms Yuen Lei Teng Cheryl    [yuen_lei_teng_cheryl@moe.edu.sg](mailto:[yuen_lei_teng_cheryl@moe.edu.sg) | Mr Cher Kiat Min Kelvin<br>[cher_kiat_min_kelvin@moe.edu.sg](mailto:cher_kiat_min_kelvin@moe.edu.sg) |
-| 4 Integrity  | Ms Tan Woei Yng <br>[tan_woei_yng@moe.edu.sg](mailto:tan_woei_yng@moe.edu.sg) | Mdm Chua Sok Huang    chua_sok_huang@moe.edu.sg<br>Mr Fan Wen Qi<br>fan_wen_qi@moe.edu.sg |
-| 4 Resilience  | Ms Nurhuda Bte Housman<br>nurhuda_housman@moe.edu.sg <br> | Ms Cheong Wing Fong Dorcas<br> cheong_wing_fong_dorcas@moe.edu.sg |
-| 4 Respect | Mdm Yip Jee Cheng (Mrs Jessie Ching)yip_jee_cheng@moe.edu.sg  | Mdm Nurliyana Bte Ismailnurliyana_ismail@moe.edu.sg <br> |
-| 4 Service  | Mdm Sivakami d/o Sellakumaran (Mrs Raj)<br>sivakami_sellakumaran@moe.edu.sg | Mdm Idma Hanita Bte Mohamedidma_hanita_mohamed@moe.edu.sg |
+| 4 Integrity  | Ms Tan Woei Yng <br>[tan_woei_yng@moe.edu.sg](mailto:tan_woei_yng@moe.edu.sg) | Mdm Chua Sok Huang [chua_sok_huang@moe.edu.sg](mailto:chua_sok_huang@moe.edu.sg)<br><br>Mr Fan Wen Qi<br>[fan_wen_qi@moe.edu.sg](mailto:fan_wen_qi@moe.edu.sg) |
+| 4 Resilience  | Ms Nurhuda Bte Housman<br>[nurhuda_housman@moe.edu.sg](mailto:nurhuda_housman@moe.edu.sg) | Ms Cheong Wing Fong Dorcas<br> [cheong_wing_fong_dorcas@moe.edu.sg](mailto:cheong_wing_fong_dorcas@moe.edu.sg) |
+| 4 Respect | Mdm Yip Jee Cheng (Mrs Jessie Ching)<br>[yip_jee_cheng@moe.edu.sg](mailto:yip_jee_cheng@moe.edu.sg) | Mdm Nurliyana Bte <br> [Ismailnurliyana_ismail@moe.edu.sg](mailto:Ismailnurliyana_ismail@moe.edu.sg)  |
+| 4 Service  | Mdm Sivakami d/o Sellakumaran (Mrs Raj)<br>[sivakami_sellakumaran@moe.edu.sg](mailto:sivakami_sellakumaran@moe.edu.sg)| Mdm Idma Hanita Bte <br> [Mohamedidma_hanita_mohamed@moe.edu.sg](mailto:Mohamedidma_hanita_mohamed@moe.edu.sg) |
 
 #### **Primary 5 Teachers 2022**
 
