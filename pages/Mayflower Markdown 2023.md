@@ -51,12 +51,11 @@ description: ""
 
 | Class | Form Teacher | Form Teacher(s) |
 |---|---|---|
-| 5 Excellence | Ms Wong Shilei Charmaine <br>[wong_shilei_charmaine@moe.edu.sg](mailto:wong_shilei_charmaine@moe.edu.sg)<br> | Mr Tang Kong Gin (Mr Benedict Tang)<br>[tang_kong_gin_benedict@moe.edu.sg](mailto:tang_kong_gin_benedict@moe.edu.sg)<br> |
-| 5 Integrity | Mdm Idma Hanita Mohamed<br>[Idma_hanita_mohamed@moe.edu.sg](mailto:Idma_hanita_mohamed@moe.edu.sg)  | Mdm Au Yard Wah <br>[au_yard_wah@moe.edu.sg](mailto:au_yard_wah@moe.edu.sg)<br><br>Mdm Ong Wee Hun Lynne<br>[ong_wee_hun_lynne@moe.edu.sg](mailto:ong_wee_hun_lynne@moe.edu.sg)<br> |
-| 5 Resilience | Ms Beatrice Lim Shu-Yi<br>[beatrice_lim_shuyi@moe.edu.sg](mailto:beatrice_lim_shuyi@moe.edu.sg) | Mdm Leau Wan Hwee<br>[leau_wan_hwee@moe.edu.sg](mailto:leau_wan_hwee@moe.edu.sg)<br><br>Mr Fan Wen Qi<br>[fan_wen_qi@moe.edu.sg](mailto:fan_wen_qi@moe.edu.sg)<br> |
-| 5 Respect | Mdm Sitihajar bte Mohd Rashid<br> [sitihajar_mohamed_rashid@moe.edu.sg](mailto:sitihajar_mohamed_rashid@moe.edu.sg) | Mr. Alphonsus Mahimy Gerard <br>[alphonsus_mahimy@moe.edu.sg](mailto:alphonsus_mahimy@moe.edu.sg)<br><br>Mdm Georgina You Sin Chiat <br>[you_sin_chiat_georgina@moe.edu.sg](mailto:you_sin_chiat_georgina@moe.edu.sg)<br> |
-|  5 Service | Mr Imran bin Mahmud Hussein <br>[imran_b_mahmud_hussin@moe.edu.sg](mailto:imran_b_mahmud_hussin@moe.edu.sg) | Mdm Chua Yulin Eileen<br> [chua_yulin_eileen@moe.edu.sg](mailto:chua_yulin_eileen@moe.edu.sg)<br><br>Mr Tan Hsien Yang Brendan<br> [tan_Hsien_Yang_Brendan@moe.edu.sg](mailto:tan_Hsien_Yang_Brendan@moe.edu.sg)<br> |
-|
+| 5 Excellence | Mdm Szetoh Wei Wei<br> [szetoh_wei_wei@moe.edu.sg](mailto:szetoh_wei_wei@moe.edu.sg )| Ms Kok Nyok [Lankok_nyok_lan@moe.edu.sg](mailto:Lankok_nyok_lan@moe.edu.sg) |
+| 5 Integrity | Mdm Noor Aidah Adam<br>[noor_aidah_adam@moe.edu.sg](mailto:noor_aidah_adam@moe.edu.sg) | Mdm Ang Chieh Sin Jaselin<br>[ang_chieh_sin_jaselin@moe.edu.sg](mailto:ang_chieh_sin_jaselin@moe.edu.sg) |
+| 5 Resilience | Ms Ho Wai Wai Angela<br>[ho_wai_wai_angela@moe.edu.sg](mailto:ho_wai_wai_angela@moe.edu.sg ) | Mdm Xiao Junjie<br>[xiao_junjie@moe.edu.sg](mailto:xiao_junjie@moe.edu.sg) |
+| 5 Respect | Mdm Loy Shunyu Angeline<br>(Mrs Angeline LeeLoy)<br>[loy_shunyu_angeline@moe.edu.sg](mailto:loy_shunyu_angeline@moe.edu.sg) | Mr Martin Lee Tze Chuen<br>[martin_lee_tze_chuen@moe.edu.sg](mailto:martin_lee_tze_chuen@moe.edu.sg) |
+|  5 Service | Mdm Zaharinah Bte Amzah<br>[zaharinah_amzah@moe.edu.sg](mailto:zaharinah_amzah@moe.edu.sg)| Mr Phua Jianping Matthew<br>[phua_jian_ping_matthew@moe.edu.sg](mailto:phua_jian_ping_matthew@moe.edu.sg)<br><br>Mr Muhammad Razee Bin Abdul Razak<br>[muhd_razee@moe.edu.sg](mailto:muhd_razee@moe.edu.sg) |
 
 #### **Primary 6 Teachers 2022**
 
