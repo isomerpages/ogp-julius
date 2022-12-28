@@ -31,12 +31,11 @@ description: ""
 
 | Class | Form Teacher | Form Teacher(s) |
 |---|---|---|
-| 3 Excellence | Ms Yuen Lei Teng Cheryl<br>[yuen_lei_teng_cheryl@moe.edu.sg](mailto:yuen_lei_teng_cheryl@moe.edu.sg) | Ms Esther Chia Kah Min<br>[chia_kah_min_esther@moe.edu.sg](mailto:chia_kah_min_esther@moe.edu.sg) |
-| 3 Integrity | Mdm Chua Sok Huang<br>[chua_sok_huang@moe.edu.sg](mailto:chua_sok_huang@moe.edu.sg) | Ms Tan Woei Yng <br>[tan_woei_yng@moe.edu.sg](mailto:tan_woei_yng@moe.edu.sg) |
-| 3 Resilience | Mdm Annamary d/o Segaran<br>[annamary_segaran@moe.edu.sg](mailto:annamary_segaran@moe.edu.sg) | Ms Nurhuda Bte Housman<br>[nurhuda_housman@moe.edu.sg](mailto:nurhuda_housman@moe.edu.sg)<br> |
-| 3 Respect  | Mdm Yip Jee Cheng (Mrs Jessie Ching)<br>[yip_jee_cheng@moe.edu.sg](mailto:yip_jee_cheng@moe.edu.sg)<br> | Mdm Nurliyana Bte Ismail <br>[nurliyana_ismail@moe.edu.sg](mailto:nurliyana_ismail@moe.edu.sg)<br><br>Mdm Jiang Chao Juan<br>[jiang_chao_juan@moe.edu.sg](mailto:jiang_chao_juan@moe.edu.sg) |
-| 3 Service | Ms Fonseka Halena Nimali<br>[fonseka_halena_nimali@moe.edu.sg](mailto:fonseka_halena_nimali@moe.edu.sg)<br> | Mdm Tan Sze Hooi<br> [tan_sze_hooi@moe.edu.sg](mailto:tan_sze_hooi@moe.edu.sg)
-|
+| 3 Excellence | Ms Noor Dinah bte Mohd Amin<br> [noor_dinah_mohd_amin@moe.edu.sg](mailto:noor_dinah_mohd_amin@moe.edu.sg) | Mdm Annamary d/o Segaran <br>[annamary_segaran@moe.edu.sg](annamary_segaran@moe.edu.sg) |
+| 3 Integrity |  Mdm Catherine Low Yoke Peng (Mrs Catherine Koh) <br>[catherine_koh@moe.edu.sg](mailtoL)| Mdm Ong Siew Lian <br>ong_siew_lian@moe.edu.sg |
+| 3 Resilience | Ms R Sudhisha Pillay<br>[r_sudhisha_pillay@moe.edu.sg](mailto:r_sudhisha_pillay@moe.edu.sg) | Mr Joshua Chin<br>[joshua_chin_jia_jin@moe.edu.sg](mailto:joshua_chin_jia_jin@moe.edu.sg)<br><br>Mr Leong Wai Phang<br>[leong_wai_phang@moe.edu.sg](mailto:>leong_wai_phang@moe.edu.sg) |
+| 3 Respect  | Mr Mohammad Shaifudin<br>[mohammad_shaifudin@moe.edu.sg](mailto:mohammad_shaifudin@moe.edu.sg) | Mdm Alagammal Madasamy<br>(Mrs Anand)<br>[alagammal_madasamy@moe.edu.sg](mailto:alagammal_madasamy@moe.edu.sg) |
+| 3 Service | Mr Fong Kheng Leong<br>[fong_kheng_leong@moe.edu.sg](mailto:fong_kheng_leong@moe.edu.sg)<br> | Mdm Mardiana Bte Mosnee <br>[mardiana_mosnee@moe.edu.sg](mailto:mardiana_mosnee@moe.edu.sg) |
 
 #### **Primary 4 Teachers 2022**
 
