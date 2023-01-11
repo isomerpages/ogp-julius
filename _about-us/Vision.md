@@ -25,6 +25,6 @@ We strive to be **describe your mission in terms of your target audience and wha
 |
 
 | National Story Writing Competition 2019 - Primary School Group ( 1st ) |  |
-|---|----:|
+|---|----: |
 |<br>CHEN TIANYNG |<br>P6-SV | |
 |  |
