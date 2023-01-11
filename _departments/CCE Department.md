@@ -27,3 +27,7 @@ description: ""
 
 ![](/images/CCE1.png)
 
+| National Story Writing Competition 2019 - Primary School Group ( 1st ) |  |
+|---|----:|
+|<br>CHEN TIANYNG |<br>P6-SV | |
+|  |
