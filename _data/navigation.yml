@@ -8,3 +8,12 @@ links:
     resource_room: true
   - title: About Us
     collection: about-us
+  - title: ungrouptest
+    url: /upgroupedpage/
+    sublinks:
+      - title: ungroupedpage
+        url: /upgroupedpage/
+      - title: testhello
+        url: /test/Hello/
+      - title: Testing
+        url: /test/testing/
