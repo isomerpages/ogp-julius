@@ -29,6 +29,51 @@ We strive to be **describe your mission in terms of your target audience and wha
 |CHEN TIANYNG | 2P6-SV |   
 |
 
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <h5>Principals</h5>
+      </td>
+    </tr>
+    <tr>
+      <td>Mr Liang Pidu (1918–1920)</td>
+      <td>Mr Huang Yiyuang (1920–1929)</td>
+    </tr>
+    <tr>
+      <td>Mdm Zhang Qiangbao (1929–1939)</td>
+      <td>Mr Wu Fulin (1939–1955)</td>
+    </tr>
+    <tr>
+      <td>Mr Zheng Yunwen (1956–1964)</td>
+      <td>Mr Willian Shen (1965–1983)</td>
+    </tr>
+    <tr>
+      <td>Mr Loong (龙厉权) (1984–1985)</td>
+      <td>Mr Ang Mah Chew (1985–1986)</td>
+    </tr>
+    <tr>
+      <td>Mdm Zhang Qiangbao (1929–1939)</td>
+      <td>Mr Wu Fulin (1939–1955)</td>
+    </tr>
+    <tr>
+      <td>Mrs Soh Chin Wah (1986 – 1996)</td>
+      <td>Mr Goh Kian Guan (1996–2003)</td>
+    </tr>
+    <tr>
+      <td>Mdm Kit Gek Wah (2004–2009)</td>
+      <td>Mdm Wu Siew Fong Susan (2009–2013)</td>
+    </tr>
+    <tr>
+      <td>Mr Vimalenthiran Vijayasingam (2013–2020)</td>
+      <td>Mr Enoch Lau (2021-2022)</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
 <table>
   <tbody>
     <tr>
