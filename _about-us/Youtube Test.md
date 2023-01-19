@@ -29,8 +29,9 @@ description: ""
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education. 
 <br><br>
 #### OVERVIEW OF YEW TEE PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023
-4.	Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.<br><br>
-5.	The subjects that incorporate topics on sexuality include:<br>
+
+4\.	Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.<br><br>
+5\.	The subjects that incorporate topics on sexuality include:<br>
 a.	Science <br>
 b.	Character and Citizenship Education (CCE)<br><br>
 
@@ -122,6 +123,8 @@ b.	Character and Citizenship Education (CCE)<br><br>
 <br>
 
 ##### INFORMATION FOR PARENTS <br>
-8\.	Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. <br>
-9\.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The form link will be provided to parents at the start of the year via Parents Gateway. The completed opt-out form is to be submitted by <b>27/01/2023</b>.<br>
+8\.	Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. <br><br>
+
+9\.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The form link will be provided to parents at the start of the year via Parents Gateway. The completed opt-out form is to be submitted by <b>27/01/2023</b>.<br><br>
+
 10\.	Parents can contact the school at 67670027 for discussion or to seek clarification about the school’s Sexuality Education programme.
