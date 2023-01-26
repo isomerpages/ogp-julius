@@ -129,3 +129,6 @@ b.	Character and Citizenship Education (CCE)<br><br>
 9\.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. The form link will be provided to parents at the start of the year via Parents Gateway. The completed opt-out form is to be submitted by <b>27/01/2023</b>. 
 <br><br>
 10\.	Parents can contact the school at 67670027 for discussion or to seek clarification about the school’s Sexuality Education programme.
+
+
+<iframe allow="encrypted-media" frameborder="0" scrolling="no" style="border:none;overflow:hidden;" height="500" width="100%" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Felis.singapore.page%2F&tabs=timeline&width=400&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId"></iframe>
