@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Jurong West Accordion 2.md
       - Jurong West Accordion1.md
       - Accordiontest2.md
       - Test4.md
