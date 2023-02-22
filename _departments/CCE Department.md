@@ -41,7 +41,7 @@ hello
 
 
 
-<iframe id="iframe" style="width: 100%; height: 2000px;" src="https://form.gov.sg/5d09f4ede6ca2a00111f25ac"></iframe></p>
+<iframe src="https://form.gov.sg/5d09f4ede6ca2a00111f25ac" style="width: 100%; height: 2000px;" id="iframe"></iframe><p></p>
 
 
 | CCE Department |  |  |
@@ -50,7 +50,7 @@ hello
 |  Subject Head (Discipline)   | Mr Justin Lim Lai Fu    | lim_lai_fu@schools.gov.sg    |
 |  HOD (CCE)  | Mdm See Chui Geok    | see_chui_geok@schools.gov.sg   |
 |  Subject Head (Student Leadership)  | Mdm Nur Azianah  |  azianah_zakaria@schools.gov.sg   |
-|  Subject Head (CCE & VIA)  |  Mdm Lim Yiling, Eillen    | lim_yiling_eileen@schools.gov.sg    |
+|  Subject Head (CCE &amp; VIA)  |  Mdm Lim Yiling, Eillen    | lim_yiling_eileen@schools.gov.sg    |
 
 ### Vision 
 
@@ -70,7 +70,8 @@ hello
 |  |
 
 
-<iframe allow="encrypted-media" frameborder="0" scrolling="no" style="border:none;overflow:hidden;" height="500" width="100%" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Felis.singapore.page%2F&tabs=timeline&width=400&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId"></iframe>
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Felis.singapore.page%2F&amp;tabs=timeline&amp;width=400&amp;height=500&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false&amp;appId" width="100%" height="500" style="border:none;overflow:hidden;" scrolling="no" frameborder="0" allow="encrypted-media"></iframe>
 
 
-<iframe allow="encrypted-media" frameborder="0" scrolling="no" style="border:none;overflow:hidden;" height="500" width="100%" src="http://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/silingprimaryschool/&width=600&colorscheme=light&show_faces=true&border_color&stream=true&header=true&height=435"></iframe>
+  
+<iframe frameborder="0" style="border:none; overflow:hidden; width:600px; height:430px; background: white; float:left;" scrolling="yes" src="http://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/silingprimaryschool/&amp;width=600&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=true&amp;header=true&amp;height=435"></iframe>
