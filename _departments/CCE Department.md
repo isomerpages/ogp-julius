@@ -74,4 +74,4 @@ hello
 
 
   
-<iframe frameborder="0" style="border:none; overflow:hidden; width:600px; height:430px; background: white; float:left;" scrolling="yes" src="http://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/silingprimaryschool/&amp;width=600&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=true&amp;header=true&amp;height=435"></iframe>
+<iframe frameborder="0" style="border:none; overflow:hidden; width:600px; height:430px; background: white; float:left;" scrolling="yes" src="http://www.facebook.com/plugins/page.php?href=https://www.facebook.com/silingprimaryschool/&amp;width=600&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=true&amp;header=true&amp;height=435"></iframe>
