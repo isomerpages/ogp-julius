@@ -48,4 +48,11 @@ sections:
         clipboard-write; encrypted-media; picture-in-picture;
         web-share"></iframe></td>
       button: Button Text
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: <iframe allow="encrypted-media" frameborder="0" scrolling="no"
+        style="border:none;overflow:hidden;" height="500" width="100%"
+        src="http://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/silingprimaryschool/&width=600&colorscheme=light&show_faces=true&border_color&stream=true&header=true&height=435"></iframe>
+      button: Button Text
 ---
