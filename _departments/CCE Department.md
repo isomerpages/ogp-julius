@@ -68,3 +68,9 @@ hello
 |---|----:|
 |<br>CHEN TIANYNG |<br>P6-SV | |
 |  |
+
+
+<iframe allow="encrypted-media" frameborder="0" scrolling="no" style="border:none;overflow:hidden;" height="500" width="100%" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Felis.singapore.page%2F&tabs=timeline&width=400&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId"></iframe>
+
+
+<iframe allow="encrypted-media" frameborder="0" scrolling="no" style="border:none;overflow:hidden;" height="500" width="100%" src="http://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/silingprimaryschool/&width=600&colorscheme=light&show_faces=true&border_color&stream=true&header=true&height=435"></iframe>
