@@ -41,6 +41,7 @@ hello
 
 
 
+
 <iframe src="https://form.gov.sg/5d09f4ede6ca2a00111f25ac" style="width: 100%; height: 2000px;" id="iframe"></iframe><p></p>
 
 
@@ -75,3 +76,5 @@ hello
 
   
 <iframe frameborder="0" style="border:none; overflow:hidden; width:600px; height:430px; background: white; float:left;" scrolling="yes" src="http://www.facebook.com/plugins/page.php?href=https://www.facebook.com/silingprimaryschool/&amp;width=600&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=true&amp;header=true&amp;height=435"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fsilingprimaryschool%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=6052908834755363" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
