@@ -7,5 +7,6 @@ description: ""
   <li>Apple</li>
   <li>Banana</li>
   <li>Cherry</li>
-  <li>Dragonfruit</li>
+  <li>Date</li>
+  <li>Elderberry</li>
 </ol>
