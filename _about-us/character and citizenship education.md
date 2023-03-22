@@ -39,3 +39,19 @@ description: ""
     </tr>
   </tbody>
 </table>
+
+
+<div style="border: 1px solid black;">
+  <table width="0" border="1" cellpadding="5">
+    <tbody>
+      <tr>
+        <td style="text-align: center;" width="301"><strong>Appointment</strong></td>
+        <td style="text-align: center;" width="272"><strong>Name</strong></td>
+      </tr>
+      <tr>
+        <td width="301">Lead Teacher (Science)</td>
+        <td width="272">Soh Lee Yoong</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
