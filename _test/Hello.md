@@ -22,14 +22,14 @@ Adopting a structured leadership developmental approach of Assignments-Relations
 Student leaders are provided first-hand experience at planning, implementing, evaluating, and reviewing key College events. Student leaders from the Students’ Council, Class Leaders Council, and different CCA groups collaborate to organise student-led College events and strive to generate a strong and positive College spirit within the YIJC community.
 
 <img src="/images/studentleadership4.jpg" style="width:50%;">
-<figure><figcaption>Helming the 2021 Student Leaders’ Investiture</figure></figcaption>
+<figure><figcaption>Helming the 2021 Student Leaders’ Investiture</figcaption>
 
 <img src="/images/studentleadership5.jpg" style="width:50%;">
-<figure><figcaption>Helming the 2021 Student Leaders’ Investiture</figure></figcaption>
+<figure><figcaption>Helming the 2021 Student Leaders’ Investiture</figcaption>
 
 
 <img src="/images/studentleadership6.jpg" style="width:40%;">
-<figure><figcaption>Hosting the livestream for the 2021 Teachers’ Day Celebrations</figure></figcaption>
+<figure><figcaption>Hosting the livestream for the 2021 Teachers’ Day Celebrations</figcaption>
 
 
 
