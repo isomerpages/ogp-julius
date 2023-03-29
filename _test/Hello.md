@@ -24,9 +24,14 @@ Student leaders are provided first-hand experience at planning, implementing, ev
 <img src="/images/studentleadership4.jpg" style="width:50%;">
 <figure><figcaption>Helming the 2021 Student Leaders’ Investiture</figcaption>
 
+
+<br>
+
 <img src="/images/studentleadership5.jpg" style="width:50%;">
 <figure><figcaption>Helming the 2021 Student Leaders’ Investiture</figcaption>
 
+
+<br> 
 
 <img src="/images/studentleadership6.jpg" style="width:40%;">
 <figure><figcaption>Hosting the livestream for the 2021 Teachers’ Day Celebrations</figcaption>
@@ -36,4 +41,3 @@ Student leaders are provided first-hand experience at planning, implementing, ev
 Students are also given opportunities to take the lead in Academic and Character & Citizenship Education (CCE) Councils to support the joy of learning. In these positions, they spearhead student-led learning experiences for their peers. 
 
 Students are also given the autonomy to form Interest Groups with like-minded peers who share a common passion to contribute to positive school experiences.
-
