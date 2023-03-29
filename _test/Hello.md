@@ -37,21 +37,3 @@ Students are also given opportunities to take the lead in Academic and Character
 
 Students are also given the autonomy to form Interest Groups with like-minded peers who share a common passion to contribute to positive school experiences.
 
-#### **Student Leadership Enrichment Programme**
-Selected student leaders will embark on a signature Student Leadership Enrichment Programme which is conducted either overseas or locally to provide a platform for students to enhance their awareness of the global landscape and hone their leadership and cross-cultural skills. This programme allows students to better appreciate the interconnectedness between the leadership domains of Intellectual Capacity, Teamwork, and Drive within an organisational context, and to apply their learning through a leadership assignment.
-
-<img src="/images/studentleadership7.jpg" style="width:40%;margin-left:55px;">
-
-<img src="/images/studentleadership8.jpg" style="width:40%;margin-right:85px;>
-
-<br clear="left">
-
-<img src="/images/studentleadership9.jpg" style="width:80%">
-
-<img src="/images/studentleadership10.jpg" style="width:45%">
-
-<br clear="left">
-	
-|  |  |
-|---|---|
-| 2019 Student Leadership Enrichment Programme |
