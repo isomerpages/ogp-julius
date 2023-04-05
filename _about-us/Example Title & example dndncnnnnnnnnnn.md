@@ -70,7 +70,6 @@ Students are expected to report to the halls or their respective classrooms by 7
 </table>
 
 
-<br>
 
 <table>
 <thead>
@@ -90,7 +89,6 @@ Students are expected to report to the halls or their respective classrooms by 7
 </tbody>
 </table>
 
-<br>
 
 <table>
 <thead>
