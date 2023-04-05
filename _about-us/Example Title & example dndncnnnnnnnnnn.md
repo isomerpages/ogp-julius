@@ -63,7 +63,7 @@ Students are expected to report to the halls or their respective classrooms by 7
     <td style="text-align: center;">9.30 a.m. to 10.00 a.m.<br>10.00 a.m. to 10.30 a.m.</td>
   </tr>
   <tr>
-    <td style="text-align: right"><br>Primary 6</td>
+    <td style="text-align: right">Primary 5<br>Primary 6</td>
     <td style="text-align: center;">10.30 a.m. to 11.00 a.m.<br>11.00 a.m. to 11.30 a.m.</td>
   </tr>
 </tbody>
