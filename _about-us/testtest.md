@@ -50,190 +50,39 @@ description: ""
 
 #### 2023 PRIMARY 3
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-hsqg{background-color:#FFF;font-size:16px;text-align:left;vertical-align:middle}
-.tg .tg-1zrx{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-qtsq{background-color:#FFF;color:#222;font-size:16px;text-align:left;vertical-align:middle}
-.tg .tg-5ucw{background-color:#FFF;color:#231F20;font-size:16px;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
-<colgroup>
-<col style="width: 300px">
-<col style="width: 180px">
-<col style="width: 360px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-1zrx">Name of Staff</td>
-    <td class="tg-1zrx">Designation</td>
-    <td class="tg-1zrx">Email</td>
-  </tr>
-  <tr>
-    <td class="tg-hsqg">Ms Koh Hui Ling</td>
-    <td class="tg-qtsq">Form Teacher<br>3 Amber</td>
-    <td class="tg-hsqg">koh_hui_ling@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-hsqg">Mdm&nbsp;Noor Ayisha Rukhsana</td>
-    <td class="tg-qtsq">Form Teacher <br> 3 Amber <br> TL Teacher</td>
-    <td class="tg-hsqg">noor_mohamed_ayisha_rukhsana@schools.gov.sg
-			</td>
-  </tr>
-  <tr>
-    <td class="tg-hsqg">Ms Chan Soo Keng</td>
-    <td class="tg-qtsq">Form Teacher<br>3 Coral <br> CL Teacher</td>
-    <td class="tg-hsqg">chan_soo_keng@schools.gov.sg </td>
-  </tr>
-  <tr>
-    <td class="tg-hsqg">Mr Marvin Seah Kim San</td>
-    <td class="tg-qtsq">Form Teacher<br>3 Coral<br>Music Teacher</td>
-    <td class="tg-hsqg">seah_kim_san_marvin@schools.gov.sg 
-</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq">Mdm Monica Yeo</td>
-    <td class="tg-qtsq">Form Teacher<br>3 Diamond</td>
-    <td class="tg-5ucw">monica_yeo_may_peng@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-hsqg">Ms Shankari</td>
-    <td class="tg-qtsq">Form Teacher<br>3 Emerald</td>
-    <td class="tg-hsqg">shankari_balakrishnan@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-hsqg">Mr Joshua Tan</td>
-    <td class="tg-qtsq">Form Teacher<br>3 Emerald</td>
-    <td class="tg-hsqg">tan_kiat_fong_joshua@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-hsqg">Ms Priya Govi</td>
-    <td class="tg-qtsq">Form Teacher<br>3 Jade</td>
-    <td class="tg-hsqg">priya_govi@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq">Mdm Lee Xiao Wei</td>
-    <td class="tg-qtsq">Form Teacher<br>3 Jade</td>
-    <td class="tg-5ucw">lee_xiao_wei@schools.gov.sg<br></td>
-  </tr>
-  <tr>
-    <td class="tg-hsqg">Ms Ong Lay Ping</td>
-    <td class="tg-qtsq">Form Teacher<br>3 Opal</td>
-    <td class="tg-hsqg">ong_lay_ping@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-hsqg">Mdm Chew Kim Kee</td>
-    <td class="tg-qtsq">Form Teacher<br>3 Opal</td>
-    <td class="tg-hsqg">chew_kim_kee@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-hsqg">Ms Jaslyn Kong</td>
-    <td class="tg-qtsq">Form Teacher <br> 3 Pearl</td>
-    <td class="tg-hsqg">Kong_Peiling@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-hsqg">Mrs Haider</td>
-    <td class="tg-qtsq">Form Teacher <br> 3 Pearl </td>
-    <td class="tg-hsqg">shanthi_marimuthu@schools.gov.sg</td>
-  </tr>
-</tbody>
-</table>
-
+| Name of Staff | Designation | Email |
+|:---|:---|:---|
+| Ms Koh Hui Ling | Form Teacher<br>3 Amber | koh_hui_ling@schools.gov.sg |
+| Mdm Noor Ayisha Rukhsana | Form Teacher<br>3 Amber<br>TL Teacher | noor_mohamed_ayisha_rukhsana@schools.gov.sg |
+| Ms Chan Soo Keng | Form Teacher<br>3 Coral<br>CL Teacher | chan_soo_keng@schools.gov.sg |
+| Mr Marvin Seah Kim San | Form Teacher<br>3 Coral<br>Music Teacher | seah_kim_san_marvin@schools.gov.sg |
+| Mdm Monica Yeo | Form Teacher<br>3 Diamond | monica_yeo_may_peng@schools.gov.sg |
+| Ms Shankari | Form Teacher<br>3 Emerald | shankari_balakrishnan@schools.gov.sg |
+| Mr Joshua Tan | Form Teacher<br>3 Emerald | tan_kiat_fong_joshua@schools.gov.sg |
+| Ms Priya Govi | Form Teacher<br>3 Jade | priya_govi@schools.gov.sg |
+| Mdm Lee Xiao Wei | Form Teacher<br>3 Jade | lee_xiao_wei@schools.gov.sg |
+| Ms Ong Lay Ping | Form Teacher<br>3 Opal | ong_lay_ping@schools.gov.sg |
+| Mdm Chew Kim Kee | Form Teacher<br>3 Opal | chew_kim_kee@schools.gov.sg |
+| Ms Jaslyn Kong | Form Teacher<br>3 Pearl | Kong_Peiling@schools.gov.sg |
+| Mrs Haider | Form Teacher<br>3 Pearl | shanthi_marimuthu@schools.gov.sg |
 
 #### 2023 PRIMARY 4
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1zrx{background-color:#FFF;color:#222;font-size:16px;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-qtsq{background-color:#FFF;color:#222;font-size:16px;text-align:left;vertical-align:middle}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
-<colgroup>
-<col style="width: 300px">
-<col style="width: 180px">
-<col style="width: 360px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-1zrx">Name</td>
-    <td class="tg-1zrx">Designation</td>
-    <td class="tg-1zrx">Email</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq">Mr M Prakash</td>
-    <td class="tg-qtsq">Form Teacher <br> 4 Amber</td>
-    <td class="tg-qtsq">m_prakash@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq">Ms Oh Pei Ying</td>
-    <td class="tg-qtsq">Form Teacher<br>4 Coral</td>
-    <td class="tg-qtsq">oh_pei_ying@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq">Ms Chan Soo Keng, Victoria</td>
-    <td class="tg-qtsq">Form Teacher<br>4 Coral</td>
-    <td class="tg-qtsq">chan_soo_keng@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq">Mr Adrian Liang</td>
-    <td class="tg-qtsq">Form Teacher<br>4 Diamond<br>LH ICT</td>
-    <td class="tg-qtsq">Adrian_LIANG@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq">Ms Chen Soo Juan</td>
-    <td class="tg-qtsq">Form Teacher<br>4 Diamond</td>
-    <td class="tg-qtsq">ding_soo_juan@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq">Mr Teo Jia Hao</td>
-    <td class="tg-qtsq">Form Teacher<br>4 Diamond</td>
-    <td class="tg-qtsq">Teo_jia_hao@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq">Ms Lim Xin Wan</td>
-    <td class="tg-qtsq">Form Teacher<br>4 Emerald</td>
-    <td class="tg-qtsq">lim_xin_wan@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq">Ms Audrey Lee</td>
-    <td class="tg-qtsq">Form Teacher<br>4 Emerald</td>
-    <td class="tg-qtsq">lee_wen_zhen_audrey@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq">Mdm Nur Shafiqah Rosland</td>
-    <td class="tg-qtsq">Form Teacher<br>4 Jade<br></td>
-    <td class="tg-qtsq">nur_shafiqah_rosland@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq">Mr Mohd Hafiizh Dzulkifli</td>
-    <td class="tg-qtsq">Form Teacher<br>4 Jade<br>SH PE CCA</td>
-    <td class="tg-qtsq">mohammed_hafiizh_dzulkifli@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq">Mdm Murni Alidawati Bte Mohd Amin</td>
-    <td class="tg-qtsq">Form Teacher<br>4 Opal</td>
-    <td class="tg-qtsq">murni_alidawati_mohamed@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq">Ms Nur Alisa</td>
-    <td class="tg-qtsq">Form Teacher<br>4 Pearl</td>
-    <td class="tg-qtsq">nur_alisa_zanal@schools.gov.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-qtsq">Ms Ng Hui Jie</td>
-    <td class="tg-qtsq">Form Teacher<br>4 Ruby</td>
-    <td class="tg-qtsq">ng_hui_jie_rimes@schools.gov.sg</td>
-  </tr>
-</tbody>
-</table>
+| Name | Designation | Email |
+|:---|:---|:---|
+| Mr M Prakash | Form Teacher<br>4 Amber | m_prakash@schools.gov.sg |
+| Ms Oh Pei Ying | Form Teacher<br>4 Coral | oh_pei_ying@schools.gov.sg |
+| Ms Chan Soo Keng, Victoria | Form Teacher<br>4 Coral | chan_soo_keng@schools.gov.sg |
+| Mr Adrian Liang | Form Teacher<br>4 Diamond<br>LH ICT | Adrian_LIANG@schools.gov.sg |
+| Ms Chen Soo Juan | Form Teacher<br>4 Diamond | ding_soo_juan@schools.gov.sg |
+| Mr Teo Jia Hao | Form Teacher<br>4 Diamond | Teo_jia_hao@schools.gov.sg |
+| Ms Lim Xin Wan | Form Teacher<br>4 Emerald | lim_xin_wan@schools.gov.sg |
+| Ms Audrey Lee | Form Teacher<br>4 Emerald | lee_wen_zhen_audrey@schools.gov.sg |
+| Mdm Nur Shafiqah Rosland | Form Teacher<br>4 Jade | nur_shafiqah_rosland@schools.gov.sg |
+| Mr Mohd Hafiizh Dzulkifli | Form Teacher<br>4 Jade<br>SH PE CCA | mohammed_hafiizh_dzulkifli@schools.gov.sg |
+| Mdm Murni Alidawati Bte Mohd Amin | Form Teacher<br>4 Opal | murni_alidawati_mohamed@schools.gov.sg |
+| Ms Nur Alisa | Form Teacher<br>4 Pearl | nur_alisa_zanal@schools.gov.sg |
+| Ms Ng Hui Jie | Form Teacher<br>4 Ruby | ng_hui_jie_rimes@schools.gov.sg |
 
 
 #### 2023 PRIMARY 5
