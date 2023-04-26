@@ -18,7 +18,7 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
-      background: /images/meetohbanner.gif
+      background: /images/blangahriseprigif.gif
   - infobar:
       title: Infobar title
       subtitle: Subtitle
