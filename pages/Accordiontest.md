@@ -5,7 +5,7 @@ description: ""
 ---
 | Class | Form Teachers | E-mail |
 | -------- | -------- | -------- |
-| 1 Amethyst      |Mdm Lyly Suriani<br>Mdm Li Xinni <br> | lyly_suriani_osman@moe.edu.sg<div>li_xinni@moe.edu.sg</div>   |
+| 1 Amethyst      |Mdm Lyly Suriani<br>Mdm Li Xinni <br> | lyly_suriani_osman@moe.edu.sg<br>li_xinni@moe.edu.sg<br>   |
 |1 Diamond | Mrs Alison Humphries<div>Mrs Eng-Teng Yi Wen, Yvonne</div> | alison_maree_dragon-humphries@moe.edu.sg<div></div>teng_yi_wen@moe.edu.sg
 1 Emerald | Mdm Nur Amlia Jumali<div>Mdm Devi Ganesan | nur_amlia_jumali@moe.edu.sg</div>devi_ganesan@moe.edu.sg
 1 Jade | Ms Siti Khadijah<div>Mdm Shannon Pang | siti_khadijah_abdul_jalil@moe.edu.sg</div>pang_teng_yen@moe.edu.sg
