@@ -22,7 +22,11 @@ sections:
   - infobar:
       title: Infobar title
       subtitle: Subtitle
-      description: About a sentence worth of description here
+      description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+        web-share" frameborder="0" title="YouTube video player"
+        src="https://www.youtube.com/embed/aaTwsZoE6xg" height="315"
+        width="560"></iframe>
       button: Button text
       url: /faq/
   - infobar:
@@ -33,8 +37,8 @@ sections:
   - infobar:
       description: '<div style="text-align: center;"><iframe
         src="https://docs.google.com/presentation/d/e/2PACX-1vRD5RVbiYVBcL3OLto5GmuLnQgVabhqQE10FNX-hmcpgtFBcTorRnUdrRVM67PNEw/embed?start=true&loop=true&delayms=3000"
-        frameborder="0" width="800" height="485" allowfullscreen="true"
-        mozallowfullscreen="true" webkitallowfullscreen="true" ></iframe></div>'
+        frameborder="0" width="800" height="485"
+        allowfullscreen="true"></iframe></div>'
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
@@ -43,7 +47,7 @@ sections:
         width="350" height="706" style="border:none;overflow:hidden"
         scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay;
         clipboard-write; encrypted-media; picture-in-picture;
-        web-share"></iframe></td>
+        web-share"></iframe>
       button: Button Text
   - infobar:
       title: Infobar Title
