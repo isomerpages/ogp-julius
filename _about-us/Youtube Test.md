@@ -42,8 +42,7 @@ b.	Character and Citizenship Education (CCE)<br><br>
 
 ##### At Yew Tee Primary School, the following Sexuality Education lessons will be taught in <u>2023</u>:<br>
 
-<img src="/images/Capture.jpg" 
-     style="width:30%">
+<img src="/images/Capture.jpg" style="width:30%">
 		 
 ##### 2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 
 
@@ -131,4 +130,8 @@ b.	Character and Citizenship Education (CCE)<br><br>
 10\.	Parents can contact the school at 67670027 for discussion or to seek clarification about the school’s Sexuality Education programme.
 
 
-<iframe allow="encrypted-media" frameborder="0" scrolling="no" style="border:none;overflow:hidden;" height="500" width="100%" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Felis.singapore.page%2F&tabs=timeline&width=400&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId"></iframe>
+<iframe allow="encrypted-media" frameborder="0" scrolling="no" style="border:none;overflow:hidden;" height="500" width="100%" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Felis.singapore.page%2F&amp;tabs=timeline&amp;width=400&amp;height=500&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false&amp;appId"></iframe>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe allowfullscreen="" frameborder="0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/9hgiAfrb2NA"></iframe>
+</div>
