@@ -47,7 +47,8 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 
 </p><p style="text-align: justify;"><strong>At Geylang Methodist School (Primary), the following Sexuality Education lessons will be taught in&nbsp;2023:<br>
 
-<b>2023 Sexuality Education Lessons in CCE 2021</b>                                                                           
+<b>2023 Sexuality Education Lessons in CCE 2021</b>                    
+                                                       
 </strong></p><p style="text-align: center;"><strong><strong>Primary 5
 
 | CCE (FTGP) THEME | LESSON TITLE / DURATION | LESSON OVERVIEW | TIME PERIOD<br>(e.g. Term 1 Week 2) |
@@ -73,7 +74,7 @@ b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Character and Citizenship Education 
 </b></b></strong></strong></strong></p><p style="text-align: justify;"><strong><strong><strong><b><b>8.  &nbsp;&nbsp; &nbsp;P6 Parents have been informed of the Sexuality Education Lessons for 2023, through Parents Gateway in October 2022.<br> 
 
 	
-[MOE Sexuality Education in Schools 2022 2023 Letter to Parents 29 October 2022.pdf](https://geylangmethodistpri.moe.edu.sg/qql/slot/u176/2023/MOE%20Sexuality%20Education%20in%20Schools%202022%20%202023%20Letter%20to%20Parents%2029%20October%202022.pdf)   
+[MOE Sexuality Education in Schools 2022 2023 Letter to Parents 29 October 2022.pdf](MOE%20Sexuality%20Education%20in%20Schools%202022%20%202023%20Letter%20to%20Parents%2029%20October%202022.pdf)   
 
 	
 </b></b></strong></strong></strong></p><p style="text-align: justify;"><strong><strong><strong><b><b>9.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Parents may opt their children out of Sexuality Education lessons.<br>
