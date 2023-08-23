@@ -54,6 +54,6 @@ sections:
       subtitle: Infobar Subtitle
       description: <a
         href="https://docs.google.com/forms/u/1/d/e/1FAIpQLSdu2VwaqcIsn_R43e8Wbp7iQ8SIKXOOypz8uM8Aj2Xj2iZh1w/viewform"><img
-        src="/images/banner.jpg"></a>
+        src="/images/Banner.jpg"></a>
       button: Button Text
 ---
