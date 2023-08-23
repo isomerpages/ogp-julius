@@ -52,8 +52,8 @@ sections:
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
-      description: <iframe allow="encrypted-media" frameborder="0" scrolling="no"
-        style="border:none;overflow:hidden;" height="500" width="100%"
-        src="http://www.facebook.com/plugins/likebox.php?href=https://www.facebook.com/silingprimaryschool/&width=600&colorscheme=light&show_faces=true&border_color&stream=true&header=true&height=435"></iframe>
+      description: <a
+        href="https://docs.google.com/forms/u/1/d/e/1FAIpQLSdu2VwaqcIsn_R43e8Wbp7iQ8SIKXOOypz8uM8Aj2Xj2iZh1w/viewform"><img
+        src="/images/banner.jpg"></a>
       button: Button Text
 ---
