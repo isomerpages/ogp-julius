@@ -17,3 +17,5 @@ links:
         url: /test/Hello/
       - title: Testing
         url: /test/testing/
+      - title: "**test**"
+        url: /permalink
