@@ -1,7 +1,7 @@
 logo: /images/logo.png
 links:
   - title: "****Example Page****"
-    url: /example-page/
+    url: /example-page/t
   - title: Hello
     collection: hello
   - title: Resources
