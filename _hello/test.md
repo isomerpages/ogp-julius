@@ -83,7 +83,18 @@ Thank you.
       <td>TR 43, SS 680</td>
     </tr>
     <tr>
-      <td>Other Programmes <ul><li>Security Personnel</li><li>Financial Planners</li><li>Medical Technologies</li><li>Non-Destructive Testing Personnel</li><li>Rope Access Personnel</li><li>Welding Personnel</li><li>Others</li></ul></td>
+      <td>
+        Other Programmes
+        <ul>
+          <li>Security Personnel</li>
+          <li>Financial Planners</li>
+          <li>Medical Technologies</li>
+          <li>Non-Destructive Testing Personnel</li>
+          <li>Rope Access Personnel</li>
+          <li>Welding Personnel</li>
+          <li>Others</li>
+        </ul>
+      </td>
       <td>ISO/IEC 17024</td>
       <td>Various applicable standards</td>
     </tr>
