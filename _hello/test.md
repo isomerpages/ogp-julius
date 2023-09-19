@@ -68,6 +68,29 @@ Thank you.
 </li></ul>
 
 
+<table>
+  <thead>
+    <tr>
+      <th>Programmes</th>
+      <th>Accreditation Requirements</th>
+      <th>Certification Standards</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Business (Management) Consultants SIRI Consultant</td>
+      <td>ISO/IEC 17024</td>
+      <td>TR 43, SS 680</td>
+    </tr>
+    <tr>
+      <td>Other Programmes <ul><li>Security Personnel</li><li>Financial Planners</li><li>Medical Technologies</li><li>Non-Destructive Testing Personnel</li><li>Rope Access Personnel</li><li>Welding Personnel</li><li>Others</li></ul></td>
+      <td>ISO/IEC 17024</td>
+      <td>Various applicable standards</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 <table>
   <thead>
