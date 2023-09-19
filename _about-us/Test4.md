@@ -5,15 +5,15 @@ description: ""
 ---
 <style type="text/css">
 .tg td {
-    font-size: 14px;
+    font-size: 16px;
 }
-    font-size: 14px;
+    font-size: 16px;
 }
 .tg ul {
     list-style-type: disc; 
 }
 .tg ul li {
-    font-size: 14px; 
+    font-size: 16px; 
 }
 </style>
 <table class="tg">
