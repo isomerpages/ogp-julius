@@ -86,7 +86,7 @@ Thank you.
     <tr>
       <td>
         Other Programmes
-        <ul style="font-size: 16px;">
+        <ul style="font-size: 12px;">
           <li>Security Personnel</li>
           <li>Financial Planners</li>
           <li>Medical Technologies</li>
