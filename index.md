@@ -4,7 +4,7 @@ title: Test
 description: An Isomer site of the Singapore Government
 image: /images/Cropped .png
 permalink: /
-notification: ""
+notification: <center>hello</center>
 sections:
   - hero:
       url: /contact-us/
