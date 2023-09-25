@@ -3,6 +3,14 @@ title: Test4
 permalink: /about-us/Test4/
 description: ""
 ---
+<p><u>Note</u>: A sample file can be found <a target="_blank" href="http://iwant2study.org/lookangejss/QTI2.1/physicsp1.zip">here</a></p>
+
+<p><u>Note</u>: A sample file can be found <a target="_blank" href="https://go.gov.sg/testing12345678910">here</a></p>
+
+
+
+
+
 <ul class="jekyllcodex_accordion">
 
 
@@ -362,8 +370,6 @@ Further information on the Singapore compliance monitoring programme should be s
 
 If you have any questions or doubts, you can drop us an email or call us directly through the <a href="/contact-us" target="_blank">Contact Us</a> section.<p></p>
 
-
-
 	
 	
 <!-- COMMENT: The {:target=" end="" is="" open="" in=""><p></p>
@@ -377,8 +383,3 @@ If you have any questions or doubts, you can drop us an email or call us directl
 <!-- COMMENT: The {:target=" end="" is="" open="" in="">
 
 </a></ul>--></div></li></ul>
-
-
-<p><u>Note</u>: A sample file can be found <a target="_blank" href="http://iwant2study.org/lookangejss/QTI2.1/physicsp1.zip">here</a></p>
-
-<p><u>Note</u>: A sample file can be found <a target="_blank" href="https://go.gov.sg/testing12345678910">here</a></p>
