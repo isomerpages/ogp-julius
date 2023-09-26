@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d1a3bamzqsz82x.amplifyapp.com
 prod: https://master.d1a3bamzqsz82x.amplifyapp.com
 resources_name: hello
-shareicon: /images/Cropped .png
+shareicon: /images/School Logo (1).png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
