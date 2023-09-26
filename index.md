@@ -2,9 +2,9 @@
 layout: homepage
 title: Test
 description: An Isomer site of the Singapore Government
-image: /images/Cropped .png
+image: /images/School Logo (1).png
 permalink: /
-notification: ' <div style="text-align: center;"><p>hello</p> </div>'
+notification: '<div style="text-align: center;"><p>hello</p> </div>'
 sections:
   - hero:
       url: /contact-us/
