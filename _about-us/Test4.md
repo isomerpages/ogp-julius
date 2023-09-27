@@ -9,6 +9,10 @@ description: ""
 
 
 
+<a target="_blank" href="http://example.com">Open in New Window</a>
+
+
+
 
 
 <ul class="jekyllcodex_accordion">
