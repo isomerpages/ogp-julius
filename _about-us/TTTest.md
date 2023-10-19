@@ -6,6 +6,16 @@ description: ""
 test
 
 
+| Purpose of Guarantee texts |  | 
+| -------- | -------- | 
+| - Tender deposit for sale site <br> - Application deposit for reserve list site    |  
+| - Mobilisation advance payment<br> - Retention sum <br> - Security for tunnel boring machines<br> - Contractual performance   | 
+
+[\[1\]](#_ftnref1) Commonly used by HDB, JTC, SLA, URA for land sales use cases. <br>
+[\[2\]](#_ftnref2) Commonly used by LTA.
+
+
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSL5OR1EuOy9zA6jl86nKSU4RlBAUGWg4vp0lKDAGaCMo93OqyiJuhKIDvYIGwscEezP8broxzpDUNP/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="600" height="400" allowfullscreen="true"></iframe>
 
 <style type="text/css">
