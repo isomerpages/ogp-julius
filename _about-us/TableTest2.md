@@ -1,6 +1,6 @@
 ---
-title: TableTest2
-permalink: /about-us/Tabletest2/
+title: Collaborations And Recognitions
+permalink: /about-us/collaborations-and-recognitions/
 description: ""
 ---
 **<font size="5">Design & Technology Awards 2022</font>**
