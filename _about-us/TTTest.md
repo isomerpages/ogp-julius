@@ -5,8 +5,6 @@ description: ""
 ---
 
 
-test
-
 
 | Purpose of Guarantee texts |  | 
 | -------- | -------- | 
