@@ -19,8 +19,8 @@ sections:
           description: Key Highlight description
           url: ""
       background: /images/blangahriseprigif.gif
+      title: '<p style="color: red;">This ishfhhhfvfvoifho red text.</p>'
   - infobar:
-      title: Infobar title
       subtitle: Subtitle
       description: <iframe allowfullscreen="" allow="accelerometer; autoplay;
         clipboard-write; encrypted-media; gyroscope; picture-in-picture;
