@@ -4,218 +4,6 @@ permalink: /hello/test/
 description: ""
 variant: markdown
 ---
-![](/images/2023%20Secondary%201%20Registration%20Exercise%201.jpg)
-
-<ul class="jekyllcodex_accordion">
-
-<li>
-
-<input type="checkbox" id="accordion1">
-
-<label for="accordion1">Introduction</label>
-
-<div>
-
-<p> Congratulations on your posting to Zhenghua Secondary School! Here, we strive to develop every student into a Principled and Future-Ready Leader – leaders who are grounded in the values of respect, resilience, responsibility, integrity and compassion; leaders who are able to lead self and others well into the future.<br><br>
-
-Please read the following information on instructions for online registration, purchase of books and uniforms, and the reporting details for the first day of school.<br><br>
-
-For more information on the 2024 Secondary 1 Posting, please refer to <a href="https://www.moe.gov.sg/secondary/s1-posting">this MOE Webpage</a><br><br>
-
-Do note that there may be changes to the information above. For the latest updates, please check the school website again after receiving your posting results as well as the Parents Gateway (PG) application. As many messages will be shared via PG, please ensure that the app’s notification alert is turned on. If you have any questions, do drop us a note at <a href="mailto:zhenghua_ss@moe.edu.sg">zhenghua_ss@moe.edu.sg</a>&nbsp;or you may call the General Office at 67639455. 
-			</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">1. Online Registration by 12pm on 22/12/2023</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> The form for online registration by can be found&nbsp;<a href="https://form.gov.sg/618485cadf07ad0014e2dd52">here</a>. 
-			</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">2. Information for Financial Assistance Scheme (FAS) Application (Online Form)</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p> For new applications :<br><br>
-	
-<br> If you wish to apply for for financial assistance, you may obtain a hard copy form from the school's General Office.  
-<br> Upon completion, please submit the application form and the required supporting documents, please go
-	
-
-For information on appeals for transfer for serious medical conditions,&nbsp;<b>please go to this</b> <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer">MOE website</a> 
-			</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">3. Appeal for transfer due to serious medical conditions</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p> Students who would like to request for a school transfer due to medical reasons will need to submit their appeal through the posted secondary school by 12pm on 22 Dec 2022.<br><br>
-
-For information on appeals for transfer for serious medical conditions,&nbsp;<b>please go to this</b> <a href="https://www.moe.gov.sg/secondary/s1-posting/results/appeal-for-school-transfer">MOE website</a>
-			</p>
-
-&nbsp;&nbsp;</div>
-
-</li>
-	
-<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion5">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion5">4. Appeal for transfer to Zhenghua Secondary School</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	<p> Dear parent and student, please note that we can only accept students whose PSLE score meet the cut-off points of our school. Only shortlisted students will be notified. Please refer to the form <a href="https://form.gov.sg/63a0f8a0cf15ee00128e395d">here</a> </p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion6">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion6">5. Purchase of Uniform and Textbooks</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p> The purchase of books and uniforms can be made from 22nd Dec to 30th Dec. However, for on-site purchase on 22nd and 23rd Dec, you will need to book a slot prior. Please refer to the link below (see On-SITE Purchase of Uniform &amp; Textbooks, directly below).<br><br>
-
-You can also purchase the textbooks and uniforms online, and have the items delivered to your home. Please click&nbsp;<a href="https://www.pacificbookstores.com/">here</a> to purchase online.<br><br>
-
-<b>On-SITE Purchase of Uniform &amp; Textbooks</b><br><br>
-
-For parents who wish to make their purchase on-site in school or students who are under FAS, please book a time slot on 22 Dec (9am – 3.30pm) and 23 Dec(9am - 3.30pm) <a href="https://sagenda.net/Frontend/Calendar/5fc5b645701dd42d28dd4c7b">here</a>.<br><br>
-
-Please note the booking is on a first come first served basis and is for parents who are NOT ordering online.<br><br>
-
-<b>Purchasing Uniform</b><br><br>
-
-Parents are advised to purchase at least 1 set of formal school uniform (school shirt and pants for boys/school blouse and skirt for girls) for formal occasion and also could be worn for daily lessons and at least 1 set of school red polo-T shirt (this can be worn during daily lessons due to the hot weather).<br><br>
-
-<b>Purchasing of Textbooks</b><br><br>
-
-NA/NT students who are offered subjects at higher level under Subject-based Banding (SBB) and would like to take up the offer are to use the booklists for SBB.<br><br>
-
-The booklist for students are listed as such:<br><br>
-	
-<a href="/files/2023%20Sec%201%20Exercise/ZHSS-S1E-2023.pdf">Sec 1 Express book list</a><br>
-	<a href="/files/2023%20Sec%201%20Exercise/ZHSS-S1NA-2023.pdf">Sec 1 Normal (Academic) book list</a><br>
-	<a href="/files/2023%20Sec%201%20Exercise/ZHSS-S1NA-SBB.pdf">Sec 1 Normal (Academic) with Subject Based Banding book list</a><br>
-	<a href="/files/2023%20Sec%201%20Exercise/ZHSS-S1NT-2023.pdf">Sec 1 Normal (Technical) book list</a><br>
-	<a href="/files/2023%20Sec%201%20Exercise/ZHSS-S1NT-SBB-2023.pdf">Sec 1 Normal (Technical) with Subject Based Banding book list</a><br><br>
-	
-<b>Please note:</b><br><br>
-
-1. Please keep strictly to the time and date that you have booked.<br><br>
-
-2. Please show&nbsp;<b>the booking confirmation sent to your registered email</b>&nbsp;to the staff at the school gate upon entry to verify your booked time slot and date. Parents who come at the wrong date or time may be turned away if there is a long queue.<br><br>
-
-3. Please note that parking on the school grounds is limited and you may be directed to the nearest multi-storey carpark once the car park lots in the school are filled up. Entrance and exit will be from the school gate located along Bukit Panjang Ring Road.<br><br>
-
-4. You will be guided by student councilors and school staff to the venues:<br>
-
-Block H (Level 1) for uniform sale<br>
-
-Block D (Level 1) for Express Textbooks<br>
-
-Block E (Level 1) for Normal(Academic) and Normal (Technical) Textbooks.<br>
-
-5. Textbooks and uniform bought can be returned or exchanged as long as they are clean and in original condition. Uniform should not be soiled.<br><br>
-
-<b>Purchase of Physical Education Attire</b><br><br>
-
-It is compulsory to wear the&nbsp;Zhenghua Secondary School House T-shirts&nbsp;and&nbsp;school black PE shorts&nbsp;for PE lessons.&nbsp; Please purchase the correct House T-Shirts for your child/ward, as indicated in the table below.&nbsp; It is advisable to purchase a minimum of 2 sets of the PE attire.<br><br>
-	
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-prnc{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:middle}
-.tg .tg-c1uv{background-color:#FFF;color:#3A3A3A;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-prnc"> <span style="font-weight:700">Class</span></th>
-    <th class="tg-c1uv"><span style="font-weight:700">House</span></th>
-    <th class="tg-c1uv"><span style="font-weight:700">Colour</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-prnc">1A</td>
-    <td class="tg-prnc">Eagle</td>
-    <td class="tg-prnc">Black</td>
-  </tr>
-  <tr>
-    <td class="tg-prnc">1B</td>
-    <td class="tg-prnc">Falcon</td>
-    <td class="tg-prnc">Yellow</td>
-  </tr>
-  <tr>
-    <td class="tg-prnc">1C</td>
-    <td class="tg-prnc">Heron</td>
-    <td class="tg-prnc">Blue</td>
-  </tr>
-  <tr>
-    <td class="tg-prnc">1D</td>
-    <td class="tg-prnc">Hawk</td>
-    <td class="tg-prnc">Red</td>
-  </tr>
-  <tr>
-    <td class="tg-prnc">1E</td>
-    <td class="tg-prnc">Eagle</td>
-    <td class="tg-prnc">Black</td>
-  </tr>
-  <tr>
-    <td class="tg-prnc">1F</td>
-    <td class="tg-prnc">Falcon</td>
-    <td class="tg-prnc">Yellow</td>
-  </tr>
-  <tr>
-    <td class="tg-prnc">1G</td>
-    <td class="tg-prnc">Heron</td>
-    <td class="tg-prnc">Blue</td>
-  </tr>
-</tbody>
-</table><br>
-			
-<img style="width:100%;height:50%" src="/images/2023%20Sec%201%20Exercise/PE-Shirts.jpg">
-	
-</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-<li>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion7">
 
@@ -323,7 +111,7 @@ Please return the hardcopy forms to the General Office or reply acceptance throu
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-</li>
+
 	
 &nbsp;&nbsp;<li>
 
@@ -648,7 +436,7 @@ Students who are offered Tamil will study at the Tamil Language Centre, Chua Chu
   </tr>
 </tbody>
 </table><br>
-			
+			fg0r f
 <b>FAQ on CCA</b>
 
 <b>1.What are the CCAs offered in ZSS? Is there a limit to the number of CCAs I can join?</b>
@@ -813,7 +601,6 @@ As part of our school’s Cyber Wellness education, students learn how to take r
 
 </li>
 	
-	
+	dndodbfbds; 
 
 	
-</ul>
