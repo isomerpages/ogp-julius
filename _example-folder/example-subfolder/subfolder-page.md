@@ -14,4 +14,4 @@ In support of the national agenda to transform the FM sector to be future ready,
 
 CBs interested to be accredited by SAC will be assessed based on ISO/IEC 17021-1, ISO/IEC TS 17021-11 and SAC document – CT 33 SAC Criteria for Certification Bodies (Facility Management System) under the accreditation scheme for Management System Certification Body.
 
-Application for accreditation can be applied through the SAC accreditation portal, [SACiNet](https://sacinet2.enterprisesg.gov.sg/landing){:target="\_blank}
+Application for accreditation can be applied through the SAC accreditation portal, [SACiNet](https://sacinet2.enterprisesg.gov.sg/landing){:target="_blank}
