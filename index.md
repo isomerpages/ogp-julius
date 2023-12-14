@@ -64,22 +64,4 @@ sections:
         src="/images/Banner.jpg"></a>
       button: Button Text
       alt: Image alt text
-  - textcards:
-      title: T
-      subtitle: Test
-      id: textcards
-      description: Text card description
-      cards:
-        - title: Files
-          description: Card description
-          linktext: Learn more
-          url: /files/signify%20test.pdf
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
 ---
