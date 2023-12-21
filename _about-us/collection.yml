@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - TTTest.md
+      - TTTest1.md
       - testtest.md
       - 12345678912345678912345678912345.md
       - Example Title & example dndncnnnnnnnnnn.md
