@@ -12,23 +12,23 @@ variant: markdown
       <th rowspan="1" colspan="1">
         <p>01/<br></p>
       </th>
-      <th rowspan="1" colspan="1">
-        <p><strong>Ms Tan Ming Ming</strong></p>
-        <p><em>Principal</em></p>
-      </th>
+      <td rowspan="1" colspan="1">
+				<p><strong>Ms Tan Ming Ming</strong><br>
+        <em>Principal</em></p>
+      </td>
       <th rowspan="1" colspan="1">
         <p>02/</p>
       </th>
-      <th rowspan="1" colspan="1">
-        <p><strong>Mrs Yeoh-Tan Jiing Shyuan</strong></p>
-        <p><em>Vice-Principal</em></p>
-      </th>
       <td rowspan="1" colspan="1">
-        <p>&nbsp;<strong>03/</strong></p>
+        <p><strong>Mrs Yeoh-Tan Jiing Shyuan</strong><br>
+        <em>Vice-Principal</em></p>
       </td>
+      <td rowspan="1" colspan="1">
+        <p><strong>03/</strong><br>
+      </p></td>
       <th rowspan="1" colspan="1">
-        <p><strong>Mdm Zarina Amir</strong></p>
-        <p><em>Vice-Principal (Admin)</em></p>
+        <p><strong>Mdm Zarina Amir</strong><br>
+        <em>Vice-Principal (Admin)</em></p>
       </th>
     </tr>
   </tbody>
@@ -44,10 +44,10 @@ variant: markdown
         <p><strong>Ms Oh Peck Lin</strong><br>
         School Staff Developer</p>
       
-      </td><td rowspan="1" colspan="1">
+      </td><th rowspan="1" colspan="1">
         <p>05/</p>
-      
-      </td><td rowspan="1" colspan="1">
+      </th>
+      <td rowspan="1" colspan="1">
         <p><strong>Ms Ng Huey Lee</strong><br>
         <em>HOD Aesthetics, Craft and Technology</em></p><em>
       
