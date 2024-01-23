@@ -4,6 +4,13 @@ permalink: /about-us/jurong-west/
 description: ""
 variant: markdown
 ---
+<a href="#school-bus-services">Go to School Bus Services</a><a href="#lunch-menu">Go to Lunch Menu</a><section id="school-bus-services">  <h2>School Bus Services</h2>  <p>Information about the school bus services.</p></section><section id="lunch-menu">  <h2>Lunch Menu</h2>  <p>Explore our delicious lunch offerings.</p></section>
+
+
+
+
+
+
 <ul class="jekyllcodex_accordion">
 &nbsp;&nbsp;<li>
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
@@ -870,4 +877,20 @@ variant: markdown
 <p style="text-align: center"><strong>Our 2020 HBL Toy Photography Challenge</strong></p>
 </div></li></ul>
 
-test
+<a href="#school-bus-services">Go to School Bus Services</a>
+<a href="#lunch-menu">Go to Lunch Menu</a>
+
+<a href="#accordion1">Jump to Art Club</a>
+
+<section id="school-bus-services">
+  <h2>School Bus Services</h2>
+  <p>Information about the school bus services.</p>
+</section>
+
+<section id="lunch-menu">
+  <h2>Lunch Menu</h2>
+  <p>Explore our delicious lunch offerings.</p>
+</section>
+
+
+
