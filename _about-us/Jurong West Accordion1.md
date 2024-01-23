@@ -17,6 +17,8 @@ variant: markdown
 		<label for="accordion1"><h5 style="color:Purple">Art Club</h5></label>
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 			<b>About Art Club</b>
+	
+	<iframe allowfullscreen="true" height="749" width="1280" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR7UDkkoKII-k9SgvUF4krqhIAe-upvRSq1WZ05emHUCy5Xi0SYP8g1WtAXETtSf-cTHMrFF1YGSR1y/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 <p>The Art Club provides the opportunity and space where creativity thinking is realised. It is a value–centred CCA where every JWSS art club member is a passionate advocate for arts.</p>
 
