@@ -12,25 +12,25 @@ variant: markdown
       <th rowspan="1" colspan="1">
         <p>01/<br></p>
       </th>
-      <th rowspan="1" colspan="1">
-        <p><strong>Ms Tan Ming Ming</strong></p>
-        <p><em>Principal</em></p>
-      </th>
+      <td rowspan="1" colspan="1">
+        <p><strong>Ms Tan Ming Ming</strong><br>
+        <em>Principal</em></p>
+      </td>
       <th rowspan="1" colspan="1">
         <p>02/</p>
       </th>
-      <th rowspan="1" colspan="1">
-        <p><strong>Mrs Yeoh-Tan Jiing Shyuan</strong></p>
-        <p><em>Vice-Principal</em></p>
-      </th>
       <td rowspan="1" colspan="1">
+        <p><strong>Mrs Yeoh-Tan Jiing Shyuan</strong><br>
+        <em>Vice-Principal</em></p>
+      
+      </td><td rowspan="1" colspan="1">
         <p>&nbsp;<strong>03/</strong></p>
       </td>
-      <th rowspan="1" colspan="1">
-        <p><strong>Mdm Zarina Amir</strong></p>
-        <p><em>Vice-Principal (Admin)</em></p>
-      </th>
-    </tr>
+      <td rowspan="1" colspan="1">
+        <p><strong>Mdm Zarina Amir</strong><br>
+        <em>Vice-Principal (Admin)</em></p>
+      
+    </td></tr>
   </tbody>
 </table>
 <p><strong>[ SCHOOL STAFF DEVELOPER / HEADS OF DEPARTMENTS / YEAR HEADS ]</strong></p>
