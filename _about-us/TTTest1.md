@@ -159,24 +159,24 @@ variant: markdown
       <th rowspan="1" colspan="1">
         <p>17/</p>
       </th>
-      <th rowspan="1" colspan="1">
-        <p><strong>Ms Fong Sum Yi</strong></p>
-        <p><em>AYH (Sec 1)</em></p>
-      </th>
+      <td rowspan="1" colspan="1">
+        <p><strong>Ms Fong Sum Yi</strong><br>
+        <em>AYH (Sec 1)</em></p>
+      </td>
       <th rowspan="1" colspan="1">
         <p>18/</p>
       </th>
-      <th rowspan="1" colspan="1">
-        <p><strong><em>Ms Eliza Tan</em></strong></p>
-        <p><em>AYH (Sec 3)</em></p>
-      </th>
+      <td rowspan="1" colspan="1">
+        <p><strong>Ms Eliza Tan</strong><br>
+        <em>AYH (Sec 3)</em></p>
+      </td>
       <td rowspan="1" colspan="1">
         <p>&nbsp;<strong>19/</strong></p>
       </td>
-      <th rowspan="1" colspan="1">
-        <p><strong>Mr Faizal Bin Abdul Aziz</strong></p>
-        <p><em>SH Art</em></p>
-      </th>
+      <td rowspan="1" colspan="1">
+        <p><strong>Mr Faizal Bin Abdul Aziz</strong><br>
+        <em>SH Art</em></p>
+      </td>
     </tr>
     <tr>
       <td rowspan="1" colspan="1">
