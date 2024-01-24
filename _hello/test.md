@@ -1,6 +1,6 @@
 ---
-title: test
-permalink: /hello/test/
+title: test@mk
+permalink: /hello/test@mk/
 description: ""
 variant: markdown
 ---
