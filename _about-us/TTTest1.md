@@ -208,8 +208,6 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p><strong>Ms Tay Shi Ying</strong><br>
         <em>SH English Language</em></p>
-        <p><em><br>
-        <br></em></p>
       </td>
       <td rowspan="1" colspan="1">
         <p><strong>24/</strong></p>
@@ -217,8 +215,6 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p><strong>Mdm Siti Zamaira</strong><br>
         <em>SH Geography</em></p>
-        <p><em><br>
-        <br></em></p>
       </td>
       <td rowspan="1" colspan="1">
         <p><strong>25/</strong></p>
