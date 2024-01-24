@@ -43,15 +43,15 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p><strong>Ms Oh Peck Lin</strong><br>
         School Staff Developer</p>
-      
-      </td><td rowspan="1" colspan="1">
+      </td>
+      <td rowspan="1" colspan="1">
         <p>05/</p>
-      
-      </td><td rowspan="1" colspan="1">
+      </td>
+      <td rowspan="1" colspan="1">
         <p><strong>Ms Ng Huey Lee</strong><br>
-        <em>HOD Aesthetics, Craft and Technology</em></p><em>
-      
-      </em></td><td rowspan="1" colspan="1">
+        <em>HOD Aesthetics, Craft and Technology</em></p>
+      </td>
+      <td rowspan="1" colspan="1">
         <p>&nbsp;<strong>06/</strong></p>
       </td>
       <td rowspan="1" colspan="1">
