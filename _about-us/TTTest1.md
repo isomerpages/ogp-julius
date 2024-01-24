@@ -22,15 +22,15 @@ variant: markdown
       <td rowspan="1" colspan="1">
         <p><strong>Mrs Yeoh-Tan Jiing Shyuan</strong><br>
         <em>Vice-Principal</em></p>
-      
-      </td><td rowspan="1" colspan="1">
+      </td>
+      <td rowspan="1" colspan="1">
         <p>&nbsp;<strong>03/</strong></p>
       </td>
       <td rowspan="1" colspan="1">
         <p><strong>Mdm Zarina Amir</strong><br>
         <em>Vice-Principal (Admin)</em></p>
-      
-    </td></tr>
+      </td>
+    </tr>
   </tbody>
 </table>
 <p><strong>[ SCHOOL STAFF DEVELOPER / HEADS OF DEPARTMENTS / YEAR HEADS ]</strong></p>
@@ -260,24 +260,24 @@ variant: markdown
       <th rowspan="1" colspan="1">
         <p>29/<br></p>
       </th>
-      <th rowspan="1" colspan="1">
-        <p>Ms Sim Leng Leng, Angela</p>
-        <p><em>Administration Manager</em></p>
-      </th>
+      <td rowspan="1" colspan="1">
+        <p><strong>Ms Sim Leng Leng, Angela</strong><br>
+        <em>Administration Manager</em></p>
+      </td>
       <th rowspan="1" colspan="1">
         <p>30/</p>
       </th>
-      <th rowspan="1" colspan="1">
-        <p>Mr New Lam Heng</p>
-        <p><em>Operations Manager</em></p>
-      </th>
+      <td rowspan="1" colspan="1">
+        <p><strong>Mr New Lam Heng</strong><br>
+        Operations Manager</p>
+      </td>
       <td rowspan="1" colspan="1">
         <p>&nbsp;<strong>31/</strong></p>
       </td>
-      <th rowspan="1" colspan="1">
-        <p>Mr Hoo Kap Yoong</p>
-        <p><em>Operations Manager</em></p>
-      </th>
+      <td rowspan="1" colspan="1">
+        <p><strong>Mr Hoo Kap Yoong</strong><br>
+        <em>Operations Manager</em></p>
+      </td>
     </tr>
   </tbody>
 </table>
