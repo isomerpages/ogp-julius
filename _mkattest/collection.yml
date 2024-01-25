@@ -1,4 +1,5 @@
 collections:
   mkattest:
     output: true
-    order: []
+    order:
+      - test123.md
