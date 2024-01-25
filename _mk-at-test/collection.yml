@@ -2,4 +2,5 @@ collections:
   mk-at-test:
     output: true
     order:
+      - Test/Test.md
       - Test/.keep
