@@ -1,6 +1,6 @@
 ---
 title: Test
-permalink: /mk-at-test/hello/
+permalink: /mk@test/hello/
 variant: tiptap
 description: ""
 ---
