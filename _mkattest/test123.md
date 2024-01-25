@@ -1,6 +1,6 @@
 ---
 title: test123
-permalink: /mkattest/permalink/
+permalink: /mk@test/permalink/
 variant: tiptap
 description: ""
 ---
