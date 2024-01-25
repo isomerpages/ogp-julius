@@ -1,5 +1,5 @@
 collections:
-  mk-at-test:
+  mk@test:
     output: true
     order:
       - Test.md
