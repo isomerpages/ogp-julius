@@ -1,4 +1,5 @@
 collections:
   mk-at-test:
     output: true
-    order: []
+    order:
+      - Test/.keep
