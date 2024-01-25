@@ -1,0 +1,4 @@
+collections:
+  mk-at-test:
+    output: true
+    order: []
