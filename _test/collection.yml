@@ -1,0 +1,6 @@
+collections:
+  test:
+    output: true
+    order:
+      - Hello.md
+      - Testing.md

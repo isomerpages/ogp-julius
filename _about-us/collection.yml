@@ -1,0 +1,21 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - TTTest1.md
+      - testtest.md
+      - 12345678912345678912345678912345.md
+      - Example Title & example dndncnnnnnnnnnn.md
+      - Character and Citizenship Education.md
+      - Jurong West Accordion1.md
+      - Accordiontest2.md
+      - Test4.md
+      - Test3.md
+      - Test2.md
+      - Youtube Test.md
+      - Tabletest6.md
+      - Tabletest5.md
+      - Tabletest4.md
+      - Tabletest3.md
+      - TableTest2.md
+      - Table Test.md

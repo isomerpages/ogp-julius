@@ -1,0 +1,6 @@
+collections:
+  departments:
+    output: true
+    order:
+      - TTTest#.md
+      - CCE Department.md

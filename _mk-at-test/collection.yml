@@ -1,0 +1,7 @@
+collections:
+  mk@test:
+    output: true
+    order:
+      - Test.md
+      - Test/Test.md
+      - Test/.keep
